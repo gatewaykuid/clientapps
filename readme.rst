@@ -25,7 +25,7 @@ Server Requirements
 Installation
 ************
 
-Please see the `Youtube <https://www.youtube.com/channel/UC6Ye0smnRWqqk3nVlYdPQXg>`_
+Please see the `Youtube <https://youtu.be/hl2Wg-5BwfY>`_
 
 *********
 Resources
