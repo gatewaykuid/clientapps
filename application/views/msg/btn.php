@@ -1,78 +1,163 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPwF9Ku/5agYWu036h4uriuiElBdJ7q5ZOyr4m+EKVN4GUSrQLcbSvLZ/+saveJfuMEoZ/TS/
-KOfTYWhtR3Wv3wPBnBRzaqqSasK1By7J0A2B68vBKcGQE1JLDcBfrCEGW+MTyVzaIQA8FIG6xEVX
-8bZvOwNT50eMSy4s3jlLfl9osntcnO1N4BycXnKr2r8510T9Dq4vpfNE9YQqhCXDi50hgLRZkSxg
-9xIa8dj+8nJExBOD707xKo/vZfIicaQ9G5/Cfx/uVQ/0rsn2m0fm7UTQ54LdaP1T6HvQzbYKEXkW
-dIDKcst1EbVDcffEb4ErTEVpfdO20dwMUml5AtUyXs2TYNjYQle0MUKMARbfbnZhTOZ1pKmYkly2
-JMcu4N91L4p9dES1Vt1cHDNJf8nL40gaJra0j24kRh2fVROQnFTJdxcF7yfpG83s5DO3qVGEaAlb
-c2E+yYDE3WasRUaGJTdxGQ/IG+FC4eZSr8swx/PPTHZzYMf0jiFn+NPHWjcWHnNlzKYNEEf7EGEW
-Y6Iqd5Nd+NSwoMBGPfFowe1I9nLkDHBrjQEUd6YSnHhh8NmF2laLCbf0pF1FlA94kK/ORSgBRc4s
-jZOiibbG1LdkWR43VlE3Vja0+PhyOX/Bm79C5kV+5zGz1EN9OnJ7crzWL9PWxk1Up+v2e94eA//d
-QJIlnyMIJbcn3n6rcOu9PZzvVHkV3aIIui9FIjd1fU91H8gSmgrvX+FB85DF0vLFQuqbEjRzRYP1
-Om4c1FDeSH0VozxdbfuoV9DTGsCZAzu9iPlZLUk5CWqqQADrtIMGUy9zGksT01GLdqTpzIs9eBUg
-oPnwIEZ2s0Bc7raq6rSdIWCkM+f8Yoi+QHwDmiIzlqJONr6Zlxl4Xfd+N1v08nSWfNXabjEj7FF5
-TqxBqfeCEyQUfsiEL3H0FxBoylaWzEup6kbny7cCorwT6MaPKQED3B0jZBxePkvfObELuZbOSqio
-45x7XhsySJvQ0jfXXRZOFu1Vl4/2NZlPYgeW/weqfgrQPtdOPx7KzfQnCnoWgjDvVRX05phpOb+2
-qePrvJcKldkH/N1b4dfBiaDAdhjBArgy+K3AU0jfcrdv+3V0a0FEPU/0w6IbPDJG57it2e3uM9uH
-0HCR2SlFDMxZI41c7/PRF/gK0tRza4mXX/KuXPRJyhWwGLurnIBY6UcZQ5D42+HZiCknMYOIkgRt
-360lEM2rwgQ4hVYJBe13CL0rfKJWu3Y27GR9MObwiuj5mLxp/MNyABGe1oMkE/OGznQSd184TdEo
-MxH6EuKvK2fsHlCkhrlfNj50Sqtx6zy9OG7hVfTq+eysN/u009zzvS9lI25CO7+HaVOvD8kGibx/
-uYCVbLloWoxGfSbad7gyyOyfg9H4qVEpI5JtgxUs748by25zJdh16B1mT3Bth/mnnA4Inm0rSbP2
-Cnljo4lsxgNx7DBvMr3mohXrOn4HPHj3z8L3jWHlqYQz0Xl+aGM9i6KmR2grHey9k9ZNXdlCsKT7
-U3Eq2Nv9UAR+sQVygN62BOmWdYXsz/ttI/gltIOEFri/o8l3o77QphxpPm4k4mjhXAQqTkrqZuFT
-GJjFjLJRVBfWYkRNbQiAftuDR9qBimUf4WCwu1Jrcxne4ZzLwifRxQ/ZNWPke+ItPFITkOsPW57D
-tgBsKUnwvrjWyXcxgBJ59Bsz1tzt5hRGyfA1K/y/ip7k387Et+ZJleWevKyxLDmL5BzB6AE8ptNr
-/gH0j3aO66YCQSy3p9PpC/j4hm596xBkhf5Ok6IutmYC/ca5/0ILtPSzabEj5YDlI3NLx/1Waf+y
-dB+++wkEmN57bE/gcJwXf0uD7fT6VESGZyHzDNohvKpLX/xMmXF6pAuvctZyddHaCfW6+rVVbRla
-taTHgPrB1ybqXnrckt20CeveAf/V7a/SWpOfROS/dug+f+Q1Hej9VJj/a3V4DOyhNqwiOwc64FVI
-pu/HVa2FU7ZFXYZaqBOchndNGv07bArh4NM3uOwOOOAJtBsr2XOx6t/Zc+ghOyovABDaLyXGA116
-CTXdUPIqwQIjjK5QWqvvlBy6txsHkgIvOI982gd2WeaoRsbV8bpsX0YcLIW3qtWFXXI6TG/Ds3ZP
-1u8SjqGGIqyArCNuSX8/pUYCsy4aCdth7Drla9EUzyrnU7nTqBi8qSIKqoCBitwTpLXesDqFqXPD
-BPEPGNOsSHD4iHAi2Q7RQLEaAK1FXUUEULpkT6Q5PmLrFV7BYan/6+q9R9UBnX1MBAUQgF/jWEUB
-w4pM01iBx4HRKD/M39gK29VT1WaZrT47lDo5uwv+Ky6rg23RRqLRdPMaNmHPNuX7yuqAvlgHCP1C
-8P0uwjVm7I0AtP5GaxPzbka9GeMPnLPMhAC7zhedCsN/5oC7DtfCMn2JoiJeLV/nDZ/U3lQKoh6h
-XpVnJYpMETWMpmYsGGnaD5TdgWjL4Tvu5pQVL3hGLyBvnjZjn1dHHIzvPZyQMR+EHXErO2P9OHwL
-BpHMT8ibzTmkMtUHKsPNoRJZfNW4w/2aojfUQdAQ89Aj/nBz0CRy03GVGStgh5AH9HumxTXqXZ6u
-nPhBSX7zd1a7zfUEOuz/c1vhduCDKvy63owG/ItzTc8gb3xQvX0D2Lxghs2eJkNowYV5KvREvvxf
-8ftOS9mrkw8K44MbrO0cHn6UpMNAquIBVuQ5ywan/9U4rQJ9ZX0/LgL6qhdh02cS9JwpZnsnd3uQ
-KFH+4/+YItR69yP8q1g9B4M2BLlK2T0SwPI+bUzQkn+lhOqkYAIgESUvR6ihlH/N8PnwQcM4dHE6
-PXYM4GqP9AFA4AbR35UAndRPJ3wKDKZp86DBSqYxy2vUWjUg9kWDFiXv2vu6DOTjVItT0ce2Kilu
-EGPqVRoNt0oqb53QNHIHWsHd559H+WvPRPaoiCiW6UjXEt3rPNHb2qziheQ5k4KNMCyp3AyfuoGo
-xxu03RXrBYoN8Rp45kPqIy6CWLaAnHW6EbwCC4fSbxhNue0qgZX6VSv1sWOcMJXkPe+1fQCi4nPx
-9cGPBQZvfKCWtg+u41qhwtrguZcz59uvcH3uXuhqwRTiK0gyPNs98gGUTBKoGLcL3iAh32xBALXX
-UkGd/9AfRhqNKkoghc9nlPBr11udfASp6nZlJkeCV7ZdV52jru83oLMdhttrQUAfLlKZT6bv7dRU
-ZACLhanqvZPeZBLM9E/esQRDCl+KBTV3UD7LniY1YHi2pTZaqXmN6hOkT9tI4cdLj69A50+r2BVP
-JMaIu7XUv+ocZ5T4sa6mcglwRUMGze5Kg9qGp8Z5qbergn8Su7FczzxtYAAuflLubBQKcKaKiCLl
-DI2Lm6tQYSr72mkkhSbRdZKGQDAuu6RWaJsxjGtyeri3O7P1gSO2WwNFPavzP92KLvu1Bn1vkec/
-fUz2cbLySqR/QRz9ulJ6a7ns7CQ4c0sjnyhcGNRBdD+msc2991HFR9xX8A+s5W0SxZdF/Q7aUfIW
-ycackqeEtG229CLVgQlwrCd3vZGLe64961nwDfNHuoNL6tai2G9M9Z87K06pUMLKPziwbP1wPS+E
-CVziC591xHwcPkt8kuv1Gnt0AAHa547HTMCiN0Vnt+HmQ94ZTDDuOp4LmrhyDCR7u9jd02pPYsDn
-iPxX9WAaa71L7E75aq811DzA47puSg2Vh+TkhAe90s7Q8bEpiDxTQlEYIBDea+6vCvNXz1hTKlEd
-kJH/hUhQVUyIE9KE3ycB+5cWpbK1WTgys+8WkB7OwBJVhVfgRV/PRsE337Hv1jiP98nbkCSYcnLT
-c+4tR9iuY9U42naiL2PIoXviQtY0XUmxGzjWGkh1/D7Zoy//+ks4+Kw9ljvSSMFb7YQruL4339p8
-nye1h61k3YCXod+01gBSnCvyFpg3d5lWeS58w3vVk5JLAZj1X2gGt5+RVEpFzIpMmqvDJQVep/Ms
-OG9n98chGXJGbXz1D329sYnVWyXtvQgetB5HI9sGuCI1GnDCspDWmIMvjQVLR7QGpVkY+Hr4O3/s
-usqgCjT1YccuPAGeHfS+m/TY5nw5yiEzZRsAqSP7VmnYeard/OHPLBaTmnKnvjiJ/E6zTC3nqjqQ
-Uo3N6c/43Qy5/qe2G3hWcxxcTQNTn9MahGSV7j2ESv5FpLfvQc2wGmQ114HFLt+WWY9opxdEUzQS
-6kOn2hjZ2BjVjoTs/qSaqV81oVWzijizbpcl3b4aInp22512b3Hu07/e/KG8j6YBIwUlDWhKhU/m
-gi5MDi2jNHfcSXEn8Vspfm//WplxjJaEUPtzeJIbUUzF4aOdq1NDXLd3XUwawpF6xR2lEbuAZXH4
-KJddpOJQ+/dB/cUe7KqCSxEefQ+2S6l+Zj3R9RUzKdUeayuFj/tXPYdgtfSVdnjqK62xeP1lw5fW
-WR2i48oZ5Fl4ofkTw4G7Pb7Nv+T/fR1hfj0hkv3N+MFBpbyMpNh/oVVeX8oBRQTOCBnGxrzYhcST
-hO9ogAxI3XfrmSwJ3T6eD9otzZNrKf5OKFCPGuvVmezgA7e6LpbVBe0zC8LGRQYPFGiRXGwh34m5
-G1NiBQQyfayC+BUVQTm+jkY37XlC7o4SjP37MLAhN4VQjqR6XWujKJj30nM7ur2KoUdjaEsx68Y3
-d4YHslsYAj0FAwreEPVCD4LG+vDZtiilw2lCjwUHdZ5QxWyscuHY9VbAWI0hq3VP8z32VUzgwa2W
-LTL6WO6l0xOFaljkT5NvkvP3Ht/RXmTHv0izMFsenENwEc5UT/6IJCxoEs+zDYZpPcF5pr/H09Kw
-9LJ3fUjPZNTM1VzvjJF46n5dv1d6RDsuKCxYfZ4nLNhZDMc6Yw1h2iG06B5LuHOawkDS9Ns/PQTC
-NZV5xOUG0mC1OTcvIyXT9lsbCNq1MbUm3mip2ybpk8wO+c0s232oxU4l2YM6nhFjjV/wDe6tlR9k
-xLa63moUBbxxFjVTqWwuhvcJX1XjrMaMaooZPPVTkWP4f7/ACabSxD2EVw/usmfrx6/y96eK6l4X
-yY9ilMjBiTIlkpzzTuV2eAOPnr/WaSjMvOgXfKZOUdIXEk3jIDwaBcLbtrHmMMFYQi9FhcjD1f/+
-Cv41ExZtyCgV4X7X4kQoVoCjzuNhIJSXsTHD/E3lcOTcNYNZD/XQ/qVVh6DP3IXeiJJFlgGgOxkx
-Na7CUicdSmLI/TWUjQk/l6XfmEtLzsMfsjiuJsIO6Ps6o9nJPZHJnldb3+S7VJqi/0UMH+lK/g40
-ng9mZo3fSKdjXlbr/Rxkenf5l+bPS41XIKCLzG5t5cSTgfKPaW0YBvNYkapBxbW7B1EXHwxt1TZG
-aiMvyZgHV+uZEKM6HaiM41kVN4wsdK00FNIOAoAWz4TcrEYlxXNEZokhJp253ID1ldT8SDMMfUjl
-QOc/o8j3OsPN+oj9LwK5GcyoJVxRUKnDQwd3PQJJVPQdUjp0XN2WQnRLc+1ZKRW0E8ElOAerG1g6
-hstB5dtA/cIVo7SYuxNRm+BqkGp9YoCKcltS6jmNtSSJI2TRp4MQa8WA8NjzyPVgPZuiGnJhargg
-l0oPNCv3BQkDAAfsrOSRHTnd1D4DR4Emottmvli+XXzt2V1eqOMgyHbjxBSvgj0zFcv771JtlwDs
-lzaS
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-core.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-vendor.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/images/favicon.ico'?>" rel="shortcut icon" type="image/x-icon">
+	<title><?=$page?> | Apps</title>
+</head>
+<body class="theme-light preload-active aside-active aside-mobile-minimized aside-desktop-maximized" id="fullscreen">
+	<div class="preload">
+		<div class="preload-dialog">
+			<div class="spinner-border text-primary preload-spinner"></div>
+		</div>
+	</div>
+	<div class="holder">
+		<div class="aside">
+			<div class="aside-header">
+				<h3 class="aside-title"><?=APPNAME.' '.VERSION?></h3>
+				<div class="aside-addon">
+					<button class="btn btn-label-primary btn-icon btn-lg" data-toggle="aside">
+						<i class="fa fa-times aside-icon-minimize"></i>
+						<i class="fa fa-thumbtack aside-icon-maximize"></i>
+					</button>
+				</div>
+			</div>
+			<div class="aside-body" data-simplebar="data-simplebar">
+				<?php $this->load->view('tmp/menud') ?>
+			</div>
+		</div>
+		<div class="wrapper">
+			<div class="header">
+				<?php $this->load->view('tmp/header') ?>
+				<div class="header-holder header-holder-mobile">
+					<div class="header-container container-fluid">
+						<div class="header-wrap header-wrap-block justify-content-start w-100">
+							<div class="breadcrumb">
+								<a href="<?=base_url().''?>" class="breadcrumb-item">
+									<div class="breadcrumb-icon">
+										<i data-feather="home"></i>
+									</div>
+									<span class="breadcrumb-text">Users</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="content ">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="portlet">
+								<div class="portlet-header portlet-header-bordered">
+									<h3 class="portlet-title">Send Message</h3>
+								</div>
+								<div class="portlet-body">
+									<form action="<?=base_url().'msg/SendButton'?>" method="POST">
+										<div class="form-group">
+											<label>Phone Number</label>
+											<input type="text" id="phone" name="phone" class="form-control" placeholder="Phone Number">
+											<span id="status"></span>
+										</div>
+										<div class="form-group">
+											<label>Message</label>
+											<textarea class="form-control" id="msg" name="msg" rows="5" placeholder="Message"></textarea>
+										</div>
+										<label>Buttons</label>
+										<div class="row">
+											<div class="form-group col-3">
+												<input type="text" class="form-control" required name="button1" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" required name="respons1" placeholder="Respons" name="">
+											</div>
+											<div class="form-group col-3">
+												<input type="text" class="form-control" name="button2" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" name="respons2" placeholder="Respons" name="">
+											</div>
+											<div class="form-group col-3">
+												<input type="text" class="form-control" name="button3" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" name="respons3" placeholder="Respons" name="">
+											</div>
+											<div class="form-group col-3">
+												<input type="text" class="form-control" name="button4" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" name="respons4" placeholder="Respons" name="">
+											</div>
+										</div>
+										<div class="form-group">
+											<label>Footer</label>
+											<input type="text" name="footer" value="Powered By wa-server.com" class="form-control" placeholder="Footer">
+										</div>
+										<div class="form-group">
+											<button id="submit" type="submit" class="btn btn-primary"><i class="fa fa-paper-plane"></i> Send</button>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<?php $this->load->view('tmp/footer') ?>
+		</div>
+	</div>
+	<div class="scrolltop">
+		<button class="btn btn-info btn-icon btn-lg">
+			<i class="fa fa-angle-up"></i>
+		</button>
+	</div>
+	<?php $this->load->view('changelogs') ?>
+	<div class="float-btn float-btn-right">
+		<button class="btn btn-flat-primary btn-icon mb-2" id="theme-toggle" data-toggle="tooltip" data-placement="right" title="Change theme">
+			<i class="fa fa-moon"></i>
+		</button>
+	</div>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/mandatory.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/core.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/vendor.js'?>"></script>
+	<script type="text/javascript">
+		<?php 
+		if ($this->session->flashdata('success')) { ?>
+			toastr.success("<?php echo $this->session->flashdata('success'); ?>");
+		<?php }elseif ($this->session->flashdata('info')) { ?>
+			toastr.info("<?php echo $this->session->flashdata('info'); ?>");
+		<?php }elseif ($this->session->flashdata('warning')) { ?>
+			toastr.warning("<?php echo $this->session->flashdata('warning'); ?>");
+		<?php }elseif ($this->session->flashdata('error')) { ?>
+			toastr.error("<?php echo $this->session->flashdata('error'); ?>");
+		<?php } ?>
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#phone').keyup(function() {
+				var data = $('#phone').val();
+				$.ajax({
+					type: "POST",
+					data: {"id":data},
+					url: "<?php echo base_url().'ajax/checkcontacts'?>",
+					success: function(response){
+						$("#status").html(response);
+					}
+				});
+			})
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#jumlah').keyup(function() {
+				var jumlah = $('#jumlah').val();
+				$.ajax({
+					type: "POST",
+					data: {"id":jumlah},
+					url: "<?php echo base_url().'ajax/numberbutn'?>",
+					success: function(response) {
+						$("#mybutton").html(response);
+					}
+				})
+			})
+		});
+	</script>
+</body>
+</html>

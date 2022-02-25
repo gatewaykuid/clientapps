@@ -1,66 +1,91 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-o54=
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-core.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-vendor.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/images/favicon.ico'?>" rel="shortcut icon" type="image/x-icon">
+	<title><?=$page?> | Apps</title>
+</head>
+<body class="theme-light preload-active" id="fullscreen">
+	<div class="preload">
+		<div class="preload-dialog">
+			<div class="spinner-border text-primary preload-spinner"></div>
+		</div>
+	</div>
+	<div class="holder">
+		<div class="wrapper">
+			<div class="content ">
+				<div class="container-fluid">
+					<div class="row no-gutters align-items-center justify-content-center h-100">
+						<div class="col-sm-8 col-md-6 col-lg-4 col-xl-3">
+							<div class="portlet">
+								<div class="portlet-body">
+									<div class="text-center mb-4">
+										<div class="avatar avatar-label-primary avatar-circle widget12">
+											<div class="avatar-display">
+												<i class="fa fa-user-alt"></i>
+											</div>
+										</div>
+									</div>
+									<form id="login-form" action="<?=base_url().'login/gologin'?>" method="POST">
+										<div class="form-group">
+											<div class="float-label float-label-lg">
+												<input class="form-control form-control-lg" type="text" name="username" placeholder="Please insert your username">
+												<label for="email">Username</label>
+											</div>
+										</div>
+										<div class="form-group">
+											<div class="float-label float-label-lg">
+												<input class="form-control form-control-lg" type="password" name="password" placeholder="Please insert your password">
+												<label for="password">Password</label>
+											</div>
+										</div>
+										<div class="d-flex align-items-center justify-content-between">
+											<button type="submit" class="btn btn-label-primary btn-lg btn-widest">Login</button>
+										</div>
+									</form>
+								</div>
+							</div>
+							<center><span style="font-size: 15px;">Your IP : <?=getClientIP()?>
+								(
+									<?php
+									$clientip = getClientIP();
+									$get = json_decode(file_get_contents("https://ipinfo.io/".$clientip."?token=2a31a7457a9324", TRUE));
+									$code = $get->country;
+									$country = countryCodeToCountry($code);
+									echo $country;
+									?>
+								)
+							</span></center>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="float-btn float-btn-right">
+		<button class="btn btn-flat-primary btn-icon mb-2" id="theme-toggle" data-toggle="tooltip" data-placement="right" title="Change theme">
+			<i class="fa fa-moon"></i>
+		</button>
+	</div>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/mandatory.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/core.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/vendor.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/app/pages/login.js'?>"></script>
+	<script type="text/javascript">
+		<?php 
+		if ($this->session->flashdata('success')) { ?>
+			toastr.success("<?php echo $this->session->flashdata('success'); ?>");
+		<?php }elseif ($this->session->flashdata('info')) { ?>
+			toastr.info("<?php echo $this->session->flashdata('info'); ?>");
+		<?php }elseif ($this->session->flashdata('warning')) { ?>
+			toastr.warning("<?php echo $this->session->flashdata('warning'); ?>");
+		<?php }elseif ($this->session->flashdata('error')) { ?>
+			toastr.error("<?php echo $this->session->flashdata('error'); ?>");
+		<?php } ?>
+	</script>
+</body>
+</html>

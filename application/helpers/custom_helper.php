@@ -1,249 +1,322 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php 
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+if (!function_exists('cek_sesi')) {
+	function cek_sesi() {
+		$CI =& get_instance();
+		$sesi = $CI->session->userdata('logged');
+		if ($sesi != 'true') {
+			redirect('');
+		}
+	}
+}
+
+if (!function_exists('cek_sesi_login')) {
+	function cek_sesi_login() {
+		$CI =& get_instance();
+		$sesi = $CI->session->userdata('logged');
+		if ($sesi == 'true') {
+			redirect('home');
+		}
+	}
+}
+
+function generate($input, $strength = 16) {
+	$input_length = strlen($input);
+	$random_string = '';
+	for($i = 0; $i < $strength; $i++) {
+		$random_character = $input[mt_rand(0, $input_length - 1)];
+		$random_string .= $random_character;
+	}
+
+	return $random_string;
+}
+
+function getClientIP()
+{
+	if (isset($_SERVER)) {
+		if (isset($_SERVER["HTTP_X_FORWARDED_FOR"]))
+			return $_SERVER["HTTP_X_FORWARDED_FOR"];
+		if (isset($_SERVER["HTTP_CLIENT_IP"]))
+			return $_SERVER["HTTP_CLIENT_IP"];
+		return $_SERVER["REMOTE_ADDR"];
+	}
+	if (getenv('HTTP_X_FORWARDED_FOR'))
+		return getenv('HTTP_X_FORWARDED_FOR');
+	if (getenv('HTTP_CLIENT_IP'))
+		return getenv('HTTP_CLIENT_IP');
+	return getenv('REMOTE_ADDR');
+}
+
+if (!function_exists('notif')) {
+	function notif() {
+		$CI =& get_instance();
+		return $CI->session->set_flashdata('msg','<div class="alert alert-danger alert-dismissible"><a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a><h4>Akses Ditolak</h4><p>Anda Tidak Memiliki Akses Ke Halaman Ini.</p></div>');
+	}
+}
+
+if (!function_exists('hasPermission')) {
+	function hasPermission($arr) {
+		$CI =& get_instance();
+		$current = $CI->session->userdata('role');
+		if (in_array($current, $arr)) {
+			return true;
+		} else {
+			notif('error','Anda Belum Melakukan Set PIN !!');
+			redirect('dashboard');
+		}
+	}
+}
+
+function countryCodeToCountry($code) {
+    $code = strtoupper($code);
+    if ($code == 'AF') return 'Afghanistan';
+    if ($code == 'AX') return 'Aland Islands';
+    if ($code == 'AL') return 'Albania';
+    if ($code == 'DZ') return 'Algeria';
+    if ($code == 'AS') return 'American Samoa';
+    if ($code == 'AD') return 'Andorra';
+    if ($code == 'AO') return 'Angola';
+    if ($code == 'AI') return 'Anguilla';
+    if ($code == 'AQ') return 'Antarctica';
+    if ($code == 'AG') return 'Antigua and Barbuda';
+    if ($code == 'AR') return 'Argentina';
+    if ($code == 'AM') return 'Armenia';
+    if ($code == 'AW') return 'Aruba';
+    if ($code == 'AU') return 'Australia';
+    if ($code == 'AT') return 'Austria';
+    if ($code == 'AZ') return 'Azerbaijan';
+    if ($code == 'BS') return 'Bahamas the';
+    if ($code == 'BH') return 'Bahrain';
+    if ($code == 'BD') return 'Bangladesh';
+    if ($code == 'BB') return 'Barbados';
+    if ($code == 'BY') return 'Belarus';
+    if ($code == 'BE') return 'Belgium';
+    if ($code == 'BZ') return 'Belize';
+    if ($code == 'BJ') return 'Benin';
+    if ($code == 'BM') return 'Bermuda';
+    if ($code == 'BT') return 'Bhutan';
+    if ($code == 'BO') return 'Bolivia';
+    if ($code == 'BA') return 'Bosnia and Herzegovina';
+    if ($code == 'BW') return 'Botswana';
+    if ($code == 'BV') return 'Bouvet Island (Bouvetoya)';
+    if ($code == 'BR') return 'Brazil';
+    if ($code == 'IO') return 'British Indian Ocean Territory (Chagos Archipelago)';
+    if ($code == 'VG') return 'British Virgin Islands';
+    if ($code == 'BN') return 'Brunei Darussalam';
+    if ($code == 'BG') return 'Bulgaria';
+    if ($code == 'BF') return 'Burkina Faso';
+    if ($code == 'BI') return 'Burundi';
+    if ($code == 'KH') return 'Cambodia';
+    if ($code == 'CM') return 'Cameroon';
+    if ($code == 'CA') return 'Canada';
+    if ($code == 'CV') return 'Cape Verde';
+    if ($code == 'KY') return 'Cayman Islands';
+    if ($code == 'CF') return 'Central African Republic';
+    if ($code == 'TD') return 'Chad';
+    if ($code == 'CL') return 'Chile';
+    if ($code == 'CN') return 'China';
+    if ($code == 'CX') return 'Christmas Island';
+    if ($code == 'CC') return 'Cocos (Keeling) Islands';
+    if ($code == 'CO') return 'Colombia';
+    if ($code == 'KM') return 'Comoros the';
+    if ($code == 'CD') return 'Congo';
+    if ($code == 'CG') return 'Congo the';
+    if ($code == 'CK') return 'Cook Islands';
+    if ($code == 'CR') return 'Costa Rica';
+    if ($code == 'CI') return 'Cote d\'Ivoire';
+    if ($code == 'HR') return 'Croatia';
+    if ($code == 'CU') return 'Cuba';
+    if ($code == 'CY') return 'Cyprus';
+    if ($code == 'CZ') return 'Czech Republic';
+    if ($code == 'DK') return 'Denmark';
+    if ($code == 'DJ') return 'Djibouti';
+    if ($code == 'DM') return 'Dominica';
+    if ($code == 'DO') return 'Dominican Republic';
+    if ($code == 'EC') return 'Ecuador';
+    if ($code == 'EG') return 'Egypt';
+    if ($code == 'SV') return 'El Salvador';
+    if ($code == 'GQ') return 'Equatorial Guinea';
+    if ($code == 'ER') return 'Eritrea';
+    if ($code == 'EE') return 'Estonia';
+    if ($code == 'ET') return 'Ethiopia';
+    if ($code == 'FO') return 'Faroe Islands';
+    if ($code == 'FK') return 'Falkland Islands (Malvinas)';
+    if ($code == 'FJ') return 'Fiji the Fiji Islands';
+    if ($code == 'FI') return 'Finland';
+    if ($code == 'FR') return 'France, French Republic';
+    if ($code == 'GF') return 'French Guiana';
+    if ($code == 'PF') return 'French Polynesia';
+    if ($code == 'TF') return 'French Southern Territories';
+    if ($code == 'GA') return 'Gabon';
+    if ($code == 'GM') return 'Gambia the';
+    if ($code == 'GE') return 'Georgia';
+    if ($code == 'DE') return 'Germany';
+    if ($code == 'GH') return 'Ghana';
+    if ($code == 'GI') return 'Gibraltar';
+    if ($code == 'GR') return 'Greece';
+    if ($code == 'GL') return 'Greenland';
+    if ($code == 'Gd') return 'Grenada';
+    if ($code == 'GP') return 'Guadeloupe';
+    if ($code == 'GU') return 'Guam';
+    if ($code == 'GT') return 'Guatemala';
+    if ($code == 'GG') return 'Guernsey';
+    if ($code == 'GN') return 'Guinea';
+    if ($code == 'GW') return 'Guinea-Bissau';
+    if ($code == 'GY') return 'Guyana';
+    if ($code == 'HT') return 'Haiti';
+    if ($code == 'HM') return 'Heard Island and McDonald Islands';
+    if ($code == 'VA') return 'Holy See (Vatican City State)';
+    if ($code == 'HN') return 'Honduras';
+    if ($code == 'HK') return 'Hong Kong';
+    if ($code == 'HU') return 'Hungary';
+    if ($code == 'IS') return 'Iceland';
+    if ($code == 'IN') return 'India';
+    if ($code == 'ID') return 'Indonesia';
+    if ($code == 'IR') return 'Iran';
+    if ($code == 'IQ') return 'Iraq';
+    if ($code == 'IE') return 'Ireland';
+    if ($code == 'IM') return 'Isle of Man';
+    if ($code == 'IL') return 'Israel';
+    if ($code == 'IT') return 'Italy';
+    if ($code == 'JM') return 'Jamaica';
+    if ($code == 'JP') return 'Japan';
+    if ($code == 'JE') return 'Jersey';
+    if ($code == 'JO') return 'Jordan';
+    if ($code == 'KZ') return 'Kazakhstan';
+    if ($code == 'KE') return 'Kenya';
+    if ($code == 'KI') return 'Kiribati';
+    if ($code == 'KP') return 'Korea';
+    if ($code == 'KR') return 'Korea';
+    if ($code == 'KW') return 'Kuwait';
+    if ($code == 'KG') return 'Kyrgyz Republic';
+    if ($code == 'LA') return 'Lao';
+    if ($code == 'LV') return 'Latvia';
+    if ($code == 'LB') return 'Lebanon';
+    if ($code == 'LS') return 'Lesotho';
+    if ($code == 'LR') return 'Liberia';
+    if ($code == 'LY') return 'Libyan Arab Jamahiriya';
+    if ($code == 'LI') return 'Liechtenstein';
+    if ($code == 'LT') return 'Lithuania';
+    if ($code == 'LU') return 'Luxembourg';
+    if ($code == 'MO') return 'Macao';
+    if ($code == 'MK') return 'Macedonia';
+    if ($code == 'MG') return 'Madagascar';
+    if ($code == 'MW') return 'Malawi';
+    if ($code == 'MY') return 'Malaysia';
+    if ($code == 'MV') return 'Maldives';
+    if ($code == 'ML') return 'Mali';
+    if ($code == 'MT') return 'Malta';
+    if ($code == 'MH') return 'Marshall Islands';
+    if ($code == 'MQ') return 'Martinique';
+    if ($code == 'MR') return 'Mauritania';
+    if ($code == 'MU') return 'Mauritius';
+    if ($code == 'YT') return 'Mayotte';
+    if ($code == 'MX') return 'Mexico';
+    if ($code == 'FM') return 'Micronesia';
+    if ($code == 'MD') return 'Moldova';
+    if ($code == 'MC') return 'Monaco';
+    if ($code == 'MN') return 'Mongolia';
+    if ($code == 'ME') return 'Montenegro';
+    if ($code == 'MS') return 'Montserrat';
+    if ($code == 'MA') return 'Morocco';
+    if ($code == 'MZ') return 'Mozambique';
+    if ($code == 'MM') return 'Myanmar';
+    if ($code == 'NA') return 'Namibia';
+    if ($code == 'NR') return 'Nauru';
+    if ($code == 'NP') return 'Nepal';
+    if ($code == 'AN') return 'Netherlands Antilles';
+    if ($code == 'NL') return 'Netherlands the';
+    if ($code == 'NC') return 'New Caledonia';
+    if ($code == 'NZ') return 'New Zealand';
+    if ($code == 'NI') return 'Nicaragua';
+    if ($code == 'NE') return 'Niger';
+    if ($code == 'NG') return 'Nigeria';
+    if ($code == 'NU') return 'Niue';
+    if ($code == 'NF') return 'Norfolk Island';
+    if ($code == 'MP') return 'Northern Mariana Islands';
+    if ($code == 'NO') return 'Norway';
+    if ($code == 'OM') return 'Oman';
+    if ($code == 'PK') return 'Pakistan';
+    if ($code == 'PW') return 'Palau';
+    if ($code == 'PS') return 'Palestinian Territory';
+    if ($code == 'PA') return 'Panama';
+    if ($code == 'PG') return 'Papua New Guinea';
+    if ($code == 'PY') return 'Paraguay';
+    if ($code == 'PE') return 'Peru';
+    if ($code == 'PH') return 'Philippines';
+    if ($code == 'PN') return 'Pitcairn Islands';
+    if ($code == 'PL') return 'Poland';
+    if ($code == 'PT') return 'Portugal, Portuguese Republic';
+    if ($code == 'PR') return 'Puerto Rico';
+    if ($code == 'QA') return 'Qatar';
+    if ($code == 'RE') return 'Reunion';
+    if ($code == 'RO') return 'Romania';
+    if ($code == 'RU') return 'Russian Federation';
+    if ($code == 'RW') return 'Rwanda';
+    if ($code == 'BL') return 'Saint Barthelemy';
+    if ($code == 'SH') return 'Saint Helena';
+    if ($code == 'KN') return 'Saint Kitts and Nevis';
+    if ($code == 'LC') return 'Saint Lucia';
+    if ($code == 'MF') return 'Saint Martin';
+    if ($code == 'PM') return 'Saint Pierre and Miquelon';
+    if ($code == 'VC') return 'Saint Vincent and the Grenadines';
+    if ($code == 'WS') return 'Samoa';
+    if ($code == 'SM') return 'San Marino';
+    if ($code == 'ST') return 'Sao Tome and Principe';
+    if ($code == 'SA') return 'Saudi Arabia';
+    if ($code == 'SN') return 'Senegal';
+    if ($code == 'RS') return 'Serbia';
+    if ($code == 'SC') return 'Seychelles';
+    if ($code == 'SL') return 'Sierra Leone';
+    if ($code == 'SG') return 'Singapore';
+    if ($code == 'SK') return 'Slovakia (Slovak Republic)';
+    if ($code == 'SI') return 'Slovenia';
+    if ($code == 'SB') return 'Solomon Islands';
+    if ($code == 'SO') return 'Somalia, Somali Republic';
+    if ($code == 'ZA') return 'South Africa';
+    if ($code == 'GS') return 'South Georgia and the South Sandwich Islands';
+    if ($code == 'ES') return 'Spain';
+    if ($code == 'LK') return 'Sri Lanka';
+    if ($code == 'SD') return 'Sudan';
+    if ($code == 'SR') return 'Suriname';
+    if ($code == 'SJ') return 'Svalbard & Jan Mayen Islands';
+    if ($code == 'SZ') return 'Swaziland';
+    if ($code == 'SE') return 'Sweden';
+    if ($code == 'CH') return 'Switzerland, Swiss Confederation';
+    if ($code == 'SY') return 'Syrian Arab Republic';
+    if ($code == 'TW') return 'Taiwan';
+    if ($code == 'TJ') return 'Tajikistan';
+    if ($code == 'TZ') return 'Tanzania';
+    if ($code == 'TH') return 'Thailand';
+    if ($code == 'TL') return 'Timor-Leste';
+    if ($code == 'TG') return 'Togo';
+    if ($code == 'TK') return 'Tokelau';
+    if ($code == 'TO') return 'Tonga';
+    if ($code == 'TT') return 'Trinidad and Tobago';
+    if ($code == 'TN') return 'Tunisia';
+    if ($code == 'TR') return 'Turkey';
+    if ($code == 'TM') return 'Turkmenistan';
+    if ($code == 'TC') return 'Turks and Caicos Islands';
+    if ($code == 'TV') return 'Tuvalu';
+    if ($code == 'UG') return 'Uganda';
+    if ($code == 'UA') return 'Ukraine';
+    if ($code == 'AE') return 'United Arab Emirates';
+    if ($code == 'GB') return 'United Kingdom';
+    if ($code == 'US') return 'United States of America';
+    if ($code == 'UM') return 'United States Minor Outlying Islands';
+    if ($code == 'VI') return 'United States Virgin Islands';
+    if ($code == 'UY') return 'Uruguay, Eastern Republic of';
+    if ($code == 'UZ') return 'Uzbekistan';
+    if ($code == 'VU') return 'Vanuatu';
+    if ($code == 'VE') return 'Venezuela';
+    if ($code == 'VN') return 'Vietnam';
+    if ($code == 'WF') return 'Wallis and Futuna';
+    if ($code == 'EH') return 'Western Sahara';
+    if ($code == 'YE') return 'Yemen';
+    if ($code == 'XK') return 'Kosovo';
+    if ($code == 'ZM') return 'Zambia';
+    if ($code == 'ZW') return 'Zimbabwe';
+    return '';
+}
 ?>
-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

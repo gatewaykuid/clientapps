@@ -1,59 +1,45 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-7TxUjqQdbWO=
+<?php 
+defined('BASEPATH') OR exit('No direct script access allowed');
+class Home extends CI_Controller
+{
+
+	function __construct()
+	{
+		parent::__construct();
+		error_reporting(0);
+		cek_sesi();
+	}
+	function index()
+	{
+		$data['page'] = "Dashboard";
+		$DeviceData = $this->db->get_where('devices', ['id' => 1])->row_array();
+		$Prefix = $DeviceData['name'];
+		$UserToken = $DeviceData['usertoken'];
+		$DeviceKey = $DeviceData['devicekey'];
+		$DeviceID = $DeviceData['deviceid'];
+		$curl = curl_init();
+		$url = ENDPOINT."/devices/".$DeviceID;
+		curl_setopt_array($curl, [
+			CURLOPT_URL => $url,
+			CURLOPT_RETURNTRANSFER => true,
+			CURLOPT_ENCODING => "",
+			CURLOPT_MAXREDIRS => 10,
+			CURLOPT_TIMEOUT => 30,
+			CURLOPT_SSL_VERIFYHOST => false,
+			CURLOPT_SSL_VERIFYPEER => false,
+			CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
+			CURLOPT_CUSTOMREQUEST => "GET",
+			CURLOPT_POSTFIELDS => "",
+			CURLOPT_HTTPHEADER => [
+				"Authorization: Bearer ".$UserToken
+			],
+		]);
+		$response = curl_exec($curl);
+		$showdata = json_decode($response,true);
+		$data['phone'] = $showdata['phone'];
+		$data['wa_name'] = $showdata['wa_name'];
+		$data['manufacture'] = $showdata['manufacture'];
+		$data['battery'] = $showdata['battery'];
+		$this->load->view('home',$data);
+	}
+} ?>

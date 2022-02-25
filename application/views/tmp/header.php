@@ -1,29 +1,71 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cP/jyyHN5nCbQuCfaDkyR3aX94RNc2HEwxl8RMIORji1GyRmH0JLsSf3KNfkTyUoJb+Ff+c6C
-nKLPgY3VQoomnHbVL0SS4KACbSuCW53caO4SbHCFn8Sf6cHthz3Fq0CUZDBLjpOjn+1UiqL29Q1x
-ZdEslX50BPIvLJx9HKkWPfSZ36T2X95c58uQ+6UaqhhYTUWJ5zG58qjUSck28XeTwdonrj3ugQCc
-6e40dvvG24vdaXbUeKE8aVdSu5YK+O/r9p0XI5iM0dW3sUTjypC/UG53OXThPv6GNHaUMlPOb3eR
-e9qZL9TfBpaqTw/v5FG5KiHbywO4RyhjyfdXRMOJxnQJsAOotvkWKUW5NW+p7MYEew+8zI0WVjEC
-oBowiljdMPVa5XZF/hXVLp6z1cmwYGpimwFsVH+H/fH3HGuV77pz6BqItzziGrA+Qkt+s5JUCG59
-eT8MqCaXIOgVdjpiFGqAGN/pUOIG2u/PVb4J+PhTYr7eTbd5xWKRgxM/2eL3sU4E5lY3fs44XHXx
-ZHOD9eLqMGZMGv0AYLJFCLjNpcHoPkhtR9+YfKbKWv2HT8EYPDXuq79QoYqlkHCu2X9N6F2fSoSk
-0P4ZdvBUIXdQzg9sXqz4zNQ8yJSvlZVr1Dj42tWeB92ijDNerezcLd4lAm70JdfoJiOviW7/X4Q1
-/dsb5eTMkTr+KHOToN1TwuxvfopdAUJKssEzA2xFLWFdl4wj6K6lNuDXHoAjdeqQ3iTAy1LMs9wa
-kw8R62gcWUAcmaZLcB+m9CTou/GJ2WFXJs+D0VOlEaI5OvTg+BSwl9JkwiM954KbtjTXCR7c4LXt
-RORW5X7bXsTf4uJI2FCaSdWCdqcQlcCA6gX1GEv516cBXhor81Ch39GikRWhoPeeGZe5fuA083hk
-w37fN/jolF8s8gsFexwax6Gidk9qxArzXIGimfXqdZ2Ah5KB3dTagJNfHbnVv1HJk0ml4DjcVMlQ
-H9nf0BUJOKpIbigF3kaLxccVkSwplG+e6lzEcYm/rx+FpN/JsLBGW4CKsb7TqiIcMEXZCLn5unff
-PT5xU/XES+lZFfikLHWJ1nt8kj7pBUoMNjHB2RSFtKgG+VGOsYldz08fUafuQ5iLIRWYObfFwd4l
-RWheOrViygpXLwEOUT/9e74LxVwEcfe4M2bcIz21ycatBqwhCKUY+D0qjvMSg2Aioo9viBfE4N/T
-vW+Wna/OGkrOFQm7Jgd/2OJZGsb1trUN/OCHCgPSxjLh5JdW1lMOrRfDMw2C/1Uc7h/hdIygsjYI
-Ui95NYHwP4LBV7tg2efwvqP1pPIZLRkvpyeAXn4L3hxYc5/stuCfU9Vm5M0MbEBxFlnSRRSIVmi8
-hvnVRHE6e4L4H4Y+JMBE07cLiMGN17MM7ox3A8dbPd5yAjnqgi0W2PfYlpxX0M/SJjeqGop7ZI/h
-1+f53P6jF+4VsIiBhZwx3c1n6R7yiSZMsRTENrtoU8Ty6Vvo219B2gmOOjjABZzVb59TSCRFm1EP
-K0YN/YGWZgWUD33IUoz/FMZWrB2l/MnrSYe9ZdwvIgtiJu5+hHFqZDs19KmodPboy9NwcMlDctXq
-HuSA2cFViZraH0yigwm+ADdap9bv/eR0+3cZLXha8UkrZl/d1xAVxn5u5VJwkmZGQZNvGxnu4g1U
-mrHHOMUJT+zvRmBXQijS/5eM1B3qJsD+6KGH/757035ZoeEa83wwCYi5HcPTDd/vhzjV0SCUJsPA
-CnJWJe4OjuC5JIZWTmMXQiMdjtlDrqcYB84GfojCxNcTN1T+cNpPxIyEd2wHDazHrOQzgCRQ7byz
-yqW0pBQBIchWZt0Ejv7SQzegHnHDJwl+uZbI7WoTfdsxM0dwTMAPbYTpSPeJBTnszHpALVaxdgi+
-E8Xu+3+eH+80AvuWPFZTjjT3NaC=
+<div class="header-holder header-holder-desktop sticky-header" id="sticky-header-desktop">
+	<div class="header-container container-fluid">
+		<div class="header-wrap"> </div>
+		<div class="header-wrap header-wrap-block"> </div>
+		<div class="header-wrap">
+			<button class="btn btn-label-primary btn-icon ml-2" data-toggle="sidemenu" data-target="#sidemenu-todo">
+				<i class="far fa-calendar-alt"></i>
+			</button>
+			<div class="dropdown ml-2">
+				<button class="btn btn-flat-primary widget13" data-toggle="dropdown">
+					<div class="widget13-text"> Hi <strong><?php echo $this->session->userdata('fullname') ?></strong>
+					</div>
+					<div class="avatar avatar-info widget13-avatar">
+						<div class="avatar-display">
+							<i class="fa fa-user-alt"></i>
+						</div>
+					</div>
+				</button>
+				<div class="dropdown-menu dropdown-menu-wide dropdown-menu-right dropdown-menu-animated overflow-hidden py-0">
+					<div class="portlet border-0">
+						<div class="portlet-footer portlet-footer-bordered rounded-0">
+							<a href="<?=base_url().'login/logout'?>" class="btn btn-label-danger">Sign out</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="header-holder header-holder-desktop">
+	<div class="header-container container-fluid">
+		<h4 class="header-title"><?=$page?></h4>
+	</div>
+</div>
+<div class="header-holder header-holder-mobile sticky-header" id="sticky-header-mobile">
+	<div class="header-container container-fluid">
+		<div class="header-wrap">
+			<button class="btn btn-flat-primary btn-icon" data-toggle="aside">
+				<i class="fa fa-bars"></i>
+			</button>
+		</div>
+		<div class="header-wrap header-wrap-block justify-content-start px-3">
+			<h4 class="header-brand">My Apps</h4>
+		</div>
+		<div class="header-wrap">
+			<button class="btn btn-flat-primary btn-icon" data-toggle="sidemenu" data-target="#sidemenu-todo">
+				<i class="far fa-calendar-alt"></i>
+			</button>
+			<div class="dropdown ml-2">
+				<button class="btn btn-flat-primary widget13" data-toggle="dropdown">
+					<div class="widget13-text"> Hi <strong><?=$this->session->userdata('fullname')?></strong>
+					</div>
+					<div class="avatar avatar-info widget13-avatar">
+						<div class="avatar-display">
+							<i class="fa fa-user-alt"></i>
+						</div>
+					</div>
+				</button>
+				<div class="dropdown-menu dropdown-menu-wide dropdown-menu-right dropdown-menu-animated overflow-hidden py-0">
+					<div class="portlet border-0">
+						<div class="portlet-footer portlet-footer-bordered rounded-0">
+							<a href="<?=base_url().'login/logout'?>" class="btn btn-label-danger">Sign out</a>
+						</div>
+					</div>
+					<!-- END Portlet -->
+				</div>
+			</div>
+			<!-- END Dropdown -->
+		</div>
+	</div>
+</div>

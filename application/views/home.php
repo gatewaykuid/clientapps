@@ -1,63 +1,136 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-core.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-vendor.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/images/favicon.ico'?>" rel="shortcut icon" type="image/x-icon">
+	<title><?=$page?> | Apps</title>
+</head>
+<body class="theme-light preload-active aside-active aside-mobile-minimized aside-desktop-maximized" id="fullscreen">
+	<div class="preload">
+		<div class="preload-dialog">
+			<div class="spinner-border text-primary preload-spinner"></div>
+		</div>
+	</div>
+	<div class="holder">
+		<div class="aside">
+			<div class="aside-header">
+				<h3 class="aside-title"><?=APPNAME.' '.VERSION?></h3>
+				<div class="aside-addon">
+					<button class="btn btn-label-primary btn-icon btn-lg" data-toggle="aside">
+						<i class="fa fa-times aside-icon-minimize"></i>
+						<i class="fa fa-thumbtack aside-icon-maximize"></i>
+					</button>
+				</div>
+			</div>
+			<div class="aside-body" data-simplebar="data-simplebar">
+				<?php $this->load->view('tmp/menud') ?>
+			</div>
+		</div>
+		<div class="wrapper">
+			<div class="header">
+				<?php $this->load->view('tmp/header') ?>
+				<div class="header-holder header-holder-mobile">
+					<div class="header-container container-fluid">
+						<div class="header-wrap header-wrap-block justify-content-start w-100">
+							<div class="breadcrumb">
+								<a href="<?=base_url().''?>" class="breadcrumb-item">
+									<div class="breadcrumb-icon">
+										<i data-feather="home"></i>
+									</div>
+									<span class="breadcrumb-text">Dashboard</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="content ">
+				<div class="container-fluid">
+					<div class="row portlet-row-fill-xl">
+						<div class="col-xl-4">
+							<div class="row portlet-row-fill-md h-100">
+								<div class="col-md-12 col-xl-12">
+									<div class="portlet portlet-primary">
+										<div class="portlet-header">
+											<div class="portlet-icon">
+												<i class="fa fa-chalkboard"></i>
+											</div>
+											<h3 class="portlet-title">Devices Informations</h3>
+										</div>
+										<div class="portlet-body">
+											<div class="portlet mb-2">
+												<div class="portlet-body">
+													<div class="widget5">
+														<h4 class="widget5-title"><?=$wa_name?></h4>
+														<div class="widget5-group">
+															<div class="widget5-item">
+																<span class="widget5-info">Phone</span>
+																<span class="widget5-value"><?=$phone?></span>
+															</div>
+															<div class="widget5-item">
+																<span class="widget5-info">Manufacture</span>
+																<span class="widget5-value text-success"><?=$manufacture?></span>
+															</div>
+															<div class="widget5-item">
+																<span class="widget5-info">Battery</span>
+																<span class="widget5-value"><?=$battery?></span>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<?php $this->load->view('tmp/footer') ?>
+		</div>
+	</div>
+	<div class="scrolltop">
+		<button class="btn btn-info btn-icon btn-lg">
+			<i class="fa fa-angle-up"></i>
+		</button>
+	</div>
+	<?php $this->load->view('changelogs') ?>
+	<div class="float-btn float-btn-right">
+		<button class="btn btn-flat-primary btn-icon mb-2" id="theme-toggle" data-toggle="tooltip" data-placement="right" title="Change theme">
+			<i class="fa fa-moon"></i>
+		</button>
+	</div>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/mandatory.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/core.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/vendor.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/app/home.js'?>"></script>
+	<script type="text/javascript">
+    if (GBrowserIsCompatible()) 
+    {
+        map = new GMap2(document.getElementById("mapa"));
+        map.addControl(new GLargeMapControl());
+        map.addControl(new GMapTypeControl(3));    
+        map.setCenter( new GLatLng(-7.793997,110.36931), 11,0);
+        
+        GEvent.addListener(map,'mousemove',function(point)
+        {
+            document.getElementById('latspan').innerHTML = point.lat()
+            document.getElementById('lngspan').innerHTML = point.lng()
+            document.getElementById('latlong').innerHTML = point.lat() + ', ' + point.lng()                        
+        });
+        
+        GEvent.addListener(map,'click',function(overlay,point)
+        {
+            document.getElementById('latlongclicked').value = point.lat() + ', ' + point.lng()
+            document.getElementById('latitude').value = point.lat() 
+            document.getElementById('longitude').value = point.lng()
+        });
+    }
+</script>
+</body>
+</html>

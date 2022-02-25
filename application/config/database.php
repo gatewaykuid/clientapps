@@ -1,28 +1,96 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPqZ+fBxSMXsnwKWndUApHu/qnKxGHj4OQFWAEcJFEPX0HykdPvkzTwLZtws6l9qArA3ilINv
-UCF9pN/gWV/pyfuhfB0lcPls5+Wpql0zEd3ziVhRBz5hoU6y582OcDvYgfKBwLCc3znOj/sWgSr9
-0HHluGcI0vG5QN1pTTVRmD1z7Hsskksvg1x0qf+P9CL+uU8w11gbrRZZJofkAwJUcrzuFLHntC35
-oybqypXKZ0rZSpRXhi3aCV03hDXVK00Sopk1PyYymU/hfIJjbTCJwO+cKlzdaP1T6HvQzbYKEXkW
-dIDKudjJmlLk7ekKoobZf6JefdGV2DN/eZCC0OLSk7ZspbzrOuXvQnrRKlgnsr6HTzTZUfJvR4xG
-+frXerrMcyKDydyuTrkUirfmxlYmr4KM7DwM7DWzZEdSpvkxrqS8Rf7duEbQX5aCs55SznZNUYNr
-VZZU9znSZrGTlu1qIiZBYUNKfWEC1mkGGwNx0Am9p8ddh8NUTTjZce5HjXgTlnjq/8oTUeY+SX47
-fXTAiqHYD2aDf/DNjUSh2O9o1IloJjMjWrFU+gJe20CO4Koa84FFgOrgmvPVD0d+KDH6VkSFKkOz
-zVp7ls/nnfopEeG2npCbl6OiEVgWXZgfn8BRP8aYTlh4keF2dpaVdeb0cNmAGRla9vdd1rAV1//V
-zyXaR38vXNfyn8WI5xq0nKi6uYP3sWTvbSrLJoEFwar/LRUqVM4CAjnVwVzr7VyAzia4RARGXmUh
-dIOLvw8Se2txtFF7n3Wuqie+j8DYZCNCLXxHGT8U55PC7Kxa6iCQdeXPerY3gsMNR41XzVBSbwFp
-BmekQ2fvLSHTNrhmCNLshNRl/DdhVU7thq88CKmjO61fpL0OR/Ab2OgvWyJK+tsojW1SwBuUbd7k
-kDr+svnFqsvj6wdW3g7/Yu953I0Mr1SjyOsTdfJhfRQKuhOX6jitI/Rj7bW0CGJq+xc6Ytow0zWO
-Q7E5JuYL3PjktR8OY0n4tR+5foA9bk2rYJuX/oBbkbuc7hO1ZDnSEOxTWD3CNtLndIdwO0aTEiIZ
-f37ksH/wDN7sqDl83mOGfHz+YQzuMS9K+KD1QmI3GTdjGdHpwsTSplhGzxT9UTK9lmS/lNepcoNb
-jimg2edwyMJxAkWGSvP9Hw5I0BbkDqHDE/MOhK8MTV/SXFl/IgaCHYouOt0iGB4wRytJNCyT9Rek
-x4BEt/3dMTgk7dpObn/L5zuTC/0j5DtGZvRRwteElhzzmJqhDcWl6M0u2+Fq1NjQbag3PGhWv68h
-Br5e4/E9h+nBOR28ZFlPWlTrGmyk2Jeas5suteK0FSHRWvC8Xw017WEGdDpfPoqUCXBjh3h+oZN/
-AJ8a/qdnbEnfbRTJzuH2KMDM2DRZAInfsA53nRshOA8FSy+9JDOzaQeVSuHhWHmA/bUVr8rMsEnG
-u1qAZoH3h/dTNz0oJji52KK0OFjEi50mzcNz/mGLWDHZbdz9W9uC4t09qd9g3R+hfxbjDTknp3FM
-8+ckbxEWpXzdBIwD1Sy7w1FecgrTpVV+0FpX/diLWnl4UdPvXWCVoU7l51JfgG4KZ5S7drjgFmqY
-rvIQ8Vu1SJuDJkaD2H8mOKhImPDMhN1/nWS7TmbeDBTLPl+z9ZDJW/FT6yZpVG7K0RSwlWdsaO5i
-KCTd9yNseNKoYXXrf2luDl0K4d8XKRVkjER+UrUaRT//56y8uL5NZCQp1tMxVzUvo6qqpwFjTuwu
-8u0h1ELkYHAnYOtLpukuuaaMUy2SlfqZA1Z/bV8fwnLCsdA+9ur0xcFScvu/SkQmE3sIL68JhVUw
-+eUqSp5OP0==
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/*
+| -------------------------------------------------------------------
+| DATABASE CONNECTIVITY SETTINGS
+| -------------------------------------------------------------------
+| This file will contain the settings needed to access your database.
+|
+| For complete instructions please consult the 'Database Connection'
+| page of the User Guide.
+|
+| -------------------------------------------------------------------
+| EXPLANATION OF VARIABLES
+| -------------------------------------------------------------------
+|
+|	['dsn']      The full DSN string describe a connection to the database.
+|	['hostname'] The hostname of your database server.
+|	['username'] The username used to connect to the database
+|	['password'] The password used to connect to the database
+|	['database'] The name of the database you want to connect to
+|	['dbdriver'] The database driver. e.g.: mysqli.
+|			Currently supported:
+|				 cubrid, ibase, mssql, mysql, mysqli, oci8,
+|				 odbc, pdo, postgre, sqlite, sqlite3, sqlsrv
+|	['dbprefix'] You can add an optional prefix, which will be added
+|				 to the table name when using the  Query Builder class
+|	['pconnect'] TRUE/FALSE - Whether to use a persistent connection
+|	['db_debug'] TRUE/FALSE - Whether database errors should be displayed.
+|	['cache_on'] TRUE/FALSE - Enables/disables query caching
+|	['cachedir'] The path to the folder where cache files should be stored
+|	['char_set'] The character set used in communicating with the database
+|	['dbcollat'] The character collation used in communicating with the database
+|				 NOTE: For MySQL and MySQLi databases, this setting is only used
+| 				 as a backup if your server is running PHP < 5.2.3 or MySQL < 5.0.7
+|				 (and in table creation queries made with DB Forge).
+| 				 There is an incompatibility in PHP with mysql_real_escape_string() which
+| 				 can make your site vulnerable to SQL injection if you are using a
+| 				 multi-byte character set and are running versions lower than these.
+| 				 Sites using Latin-1 or UTF-8 database character set and collation are unaffected.
+|	['swap_pre'] A default table prefix that should be swapped with the dbprefix
+|	['encrypt']  Whether or not to use an encrypted connection.
+|
+|			'mysql' (deprecated), 'sqlsrv' and 'pdo/sqlsrv' drivers accept TRUE/FALSE
+|			'mysqli' and 'pdo/mysql' drivers accept an array with the following options:
+|
+|				'ssl_key'    - Path to the private key file
+|				'ssl_cert'   - Path to the public key certificate file
+|				'ssl_ca'     - Path to the certificate authority file
+|				'ssl_capath' - Path to a directory containing trusted CA certificates in PEM format
+|				'ssl_cipher' - List of *allowed* ciphers to be used for the encryption, separated by colons (':')
+|				'ssl_verify' - TRUE/FALSE; Whether verify the server certificate or not
+|
+|	['compress'] Whether or not to use client compression (MySQL only)
+|	['stricton'] TRUE/FALSE - forces 'Strict Mode' connections
+|							- good for ensuring strict SQL while developing
+|	['ssl_options']	Used to set various SSL options that can be used when making SSL connections.
+|	['failover'] array - A array with 0 or more data for connections if the main should fail.
+|	['save_queries'] TRUE/FALSE - Whether to "save" all executed queries.
+| 				NOTE: Disabling this will also effectively disable both
+| 				$this->db->last_query() and profiling of DB queries.
+| 				When you run a query, with this setting set to TRUE (default),
+| 				CodeIgniter will store the SQL statement for debugging purposes.
+| 				However, this may cause high memory usage, especially if you run
+| 				a lot of SQL queries ... disable this to avoid that problem.
+|
+| The $active_group variable lets you choose which connection group to
+| make active.  By default there is only one group (the 'default' group).
+|
+| The $query_builder variables lets you determine whether or not to load
+| the query builder class.
+*/
+$active_group = 'default';
+$query_builder = TRUE;
+
+$db['default'] = array(
+	'dsn'	=> '',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => 'root',
+	'database' => 'client',
+	'dbdriver' => 'mysqli',
+	'dbprefix' => '',
+	'pconnect' => FALSE,
+	'db_debug' => (ENVIRONMENT !== 'production'),
+	'cache_on' => FALSE,
+	'cachedir' => '',
+	'char_set' => 'utf8',
+	'dbcollat' => 'utf8_general_ci',
+	'swap_pre' => '',
+	'encrypt' => FALSE,
+	'compress' => FALSE,
+	'stricton' => FALSE,
+	'failover' => array(),
+	'save_queries' => TRUE
+);

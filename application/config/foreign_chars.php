@@ -1,44 +1,114 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPyftsrM8s3+Q9SLETfVQFK8blgWVvJSJiBV8tjCaIY1gITEG6YJH+8ZHBskexe0fVhKP2xOr
-ma0BNZOs4I5Nlz+iQ1LEUSGLnm9oZYNcPMdfmlU3htJ6kdZiLheuaGoJQOAxZVZXq2ZXrcJSDHNG
-lPiH8pzARoN7w0ov3Xfg1TZTwWk/p8pyMfWdZn/pX8Js8Zcr5CistxxtpaZ88rcSvujHo09JD/4z
-Q8MtRn2LnhyfEt+kjyMloDNwrOiJzqZw7wRBRlbL9TyKuBlA2BqcZQ0Hk6UHa5qP7bhsM9Gw6w2T
-8rItSGWTGKc9+UdvF9Xaul2cTB4vIKl92biwfcDf2+7lTA0L6uoapdCjp94kKMTn7PqI2aRL5Ei8
-ybxh7KDJhAzgL3AJ1iAeCVljTmsHQw8YItTWphOVGRHrIf4obn9/Thj/RjrEyWCeyIzVh0efercu
-0EKQHbVOEAlN8FLg/iKNqrO2JqSF2+FydkwDzIwPavHQ6ZucKW8wOudJDdYXdjbTxiFXEH90HG05
-0gK//+mc8dw4dY7ZasCek0rRIfKdXSezFywKp1fD8Ivox0Xn9wExDcrLbQebulz/21hQDhDb0y2Y
-q9r1A3S4u4BOBsRtcdFh+ipK0HAkZhLCBMD+AzjNcee/E3eXYGgfRqhxjuo7B5e65Ln5RLBXEXY9
-JG8vMcD0EGGM6l9fVaGcr97fpHg7syBZepldm8xGrpafmnHYKpAR7/T1x3IvhMpw8A6Ojn5vZT9D
-A7YDsw/hQJ3Sg0MjOZ+eaO+F0KnzfkZI2lQAqRzWFnQJ5bmnNSgQZ4T5fNMM9Co5s4AHWts3ELZF
-CnbHpKRfIBmrDGG+9Lg6Cu8VmLEPDO7ozvfd4aNgwa2kl97eJ3+mjT88PH0tNQDw+ZVn5+EZgjrh
-kymJqGWn7v3gpk6zNN/wLRbbXh4gvnvWoRVa3tdTMqYDPQz0jkCN6SRdLE22u7wHSfcZUfbovyvy
-nwxzFHGwwbMGAO/iBbXeD/t8aizwM8nvf5aEfKvpCoWa6JhAUY7Ff5sPFGCuHKhUM0e7WeTpbT/0
-9hPW4wuZcqTpMCJQPFKDyGWrza0GkYO8uwyzFmUnj2kR8S6HvaoU6CcCHdE3LGKT7fitcLMz0aYu
-Gwzx/1/71Fh5VLqP1M/0b23ANbg5U2Gks+hGsGQ6PCzR8m5Dy1hrR7WbgGM2FjAIYLKaacy4iGRE
-K/gG6OVAy9VtJSMl/uHY6InE3Ng57IAT6OcAo48J6o8AdHHnwWUAVAEzPKnZwEsu771zyg6F4p1v
-MgcPoPc9CpsKizkAQ99QlWsU4xoXeVJs6aIti9z6evdoisnTLB9cdQSIXRLpJmc3NSxziPtc8SDE
-Vj5j4s5Hb7yrBoBU0VyHjPGqJBai9OoW8zJql0K+/aXPT+XGezWJ+erVTjILK+HA8tyqRGO4Z92V
-RnvlI7u3LegTd1w+yMc39vvK3MU2E72jIbkPe0xFIDtjTdoRI2vyTJu+/nC9wR4ctVJEflTjBgHa
-W50WJkxohaHTjycIu9T88ZQgdwPRZ4HiMcP9gEuAls4ap/TZjqHmMZsTdcKD0DMO7935NmXx1npE
-dfcTCbhdNdiu3L21XF7bGGFD/y7cO2Kssh705nQE6edzlESirvxwv144p61zOXneQImsCid1EgSh
-aaps2HeRv9OE7nyeFHIwOgGQRVgXBs3TqqI7NihuO7BpYrDyDcKvSEu5lbAhcG9VEjE21MxfY1Ru
-CND9cY3NrhaAg+c+lUHtCZWzAkDxHQ551vowu3rvOtodmsGS3WwZHV+nqVycc8XCHNOMPm0n3VLs
-rbPYoT+eVCGaHqQBvNxdfE0XZOMATz+rtF4an7KtFXAUiyISjPO4D/2Sf+kVogvAfUg+JHNBFH/r
-awWLBlUZ0/DRlG5RHtAYethBFKGoXIilOTxio/MwD7ClW//dadK46ZWtLQ3C64it+aG4JnOqeXVs
-zpEihmw58ISwMbxgS1b1HRTgT+/gxGSI8mNeP3Ua5jGQUu90xu2cUpkO1zRQx3qu66bfYk0ndw1X
-EhOzWSwGaMWrZuU1TGNCiBALa4p/CvFIDtudbv4U9n7Ii4lYvDyGIKLh1o6IezRdNloF/1BfjMfJ
-b6IjnxMIk7SxIlU7FSLYX1Q2eo/LgjNNpRhbi+nrNSq517MCV4KgMY+XW0bk+4aoAR6hCm0hJ+py
-ANSXYncGBBKVXCHAwry9SfatHGfS37N6v/8FDfyxyoikOAYZzGY7IuzTdbYaRtebjWUtOFlTIfXO
-KsEQ0QygPieYIFFsRsct6S3CBnNYkDO6ApTXMM8PLYtXhl0zhLkBocd7t/nFZJI9PvIWikpfNN9F
-Tf1mIq/trtHLF+tiXba65dk/LXr3Fc5pIgnAPUsbFfbZdecspLuigdzB7HMMslOi7F+janBFLZ/U
-ki4AWTKdcwrYSxwU/KZ1c+Ow0ZcRHL1vZOnjk9iM9cMHkoILnHMNM+OTQrU29cBcKfxx3tzlzSid
-wFr8/Mvsk7ODds8CBWEGa1zlH5pob/q18jawu06HoJ0EhZBwBoqmrLIBxucet+TVM07nGkhZ0Ze2
-i4QPmTvy8HZLnvhS48XQHH52++1+69p7EaG+P3hQ8R+t0SWNOYgvmvtlu7BfmYm49oRliIBukg4d
-4AFif9vgoniV0N6KI5+uU2CAqErTVcwyU4w8OuDtU/jGkY43WEkJBvlHNb20O1AL6Dx3StYgaRaA
-gKd/aREjJGIr/paFeVkIX6beA7O9ygGo7lyRNLNx5McitDHAmBLRpw1tCNfITQbDf1g9KALeSnE2
-tjTNIMvA33Et9v8HY6mnwgNcbEmHf4t4vGbHRsty5DM4kT2LjgUfjV1yZj3ltgnk/CW89ntLWtt3
-Mwg896bbJ31kA/sfkbCwQWjRju0+4SvL7gDIpDBsX1qUlOUqpATGUI9zizUgIeZim2qjtxXqV2Ut
-jpE/1eYgzH0NAwRvXtPGnP3M9D1r/j37hRI8MD7bWay6o9PJZBvXUWuKFZHYTi9sHlyKt7For7eo
-GOMbSGOL1UGMgJ+42aQXm1ENiaP6PG2d5daCf4imQL3ljQ7TjWBVe6q=
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/*
+| -------------------------------------------------------------------
+| Foreign Characters
+| -------------------------------------------------------------------
+| This file contains an array of foreign characters for transliteration
+| conversion used by the Text helper
+|
+*/
+$foreign_characters = array(
+	'/ä|æ|ǽ/' => 'ae',
+	'/ö|œ/' => 'oe',
+	'/ü/' => 'ue',
+	'/Ä/' => 'Ae',
+	'/Ü/' => 'Ue',
+	'/Ö/' => 'Oe',
+	'/À|Á|Â|Ã|Ä|Å|Ǻ|Ā|Ă|Ą|Ǎ|Α|Ά|Ả|Ạ|Ầ|Ẫ|Ẩ|Ậ|Ằ|Ắ|Ẵ|Ẳ|Ặ|А/' => 'A',
+	'/à|á|â|ã|å|ǻ|ā|ă|ą|ǎ|ª|α|ά|ả|ạ|ầ|ấ|ẫ|ẩ|ậ|ằ|ắ|ẵ|ẳ|ặ|а/' => 'a',
+	'/Б/' => 'B',
+	'/б/' => 'b',
+	'/Ç|Ć|Ĉ|Ċ|Č/' => 'C',
+	'/ç|ć|ĉ|ċ|č/' => 'c',
+	'/Д|Δ/' => 'D',
+	'/д|δ/' => 'd',
+	'/Ð|Ď|Đ/' => 'Dj',
+	'/ð|ď|đ/' => 'dj',
+	'/È|É|Ê|Ë|Ē|Ĕ|Ė|Ę|Ě|Ε|Έ|Ẽ|Ẻ|Ẹ|Ề|Ế|Ễ|Ể|Ệ|Е|Э/' => 'E',
+	'/è|é|ê|ë|ē|ĕ|ė|ę|ě|έ|ε|ẽ|ẻ|ẹ|ề|ế|ễ|ể|ệ|е|э/' => 'e',
+	'/Ф/' => 'F',
+	'/ф/' => 'f',
+	'/Ĝ|Ğ|Ġ|Ģ|Γ|Г|Ґ/' => 'G',
+	'/ĝ|ğ|ġ|ģ|γ|г|ґ/' => 'g',
+	'/Ĥ|Ħ/' => 'H',
+	'/ĥ|ħ/' => 'h',
+	'/Ì|Í|Î|Ï|Ĩ|Ī|Ĭ|Ǐ|Į|İ|Η|Ή|Ί|Ι|Ϊ|Ỉ|Ị|И|Ы/' => 'I',
+	'/ì|í|î|ï|ĩ|ī|ĭ|ǐ|į|ı|η|ή|ί|ι|ϊ|ỉ|ị|и|ы|ї/' => 'i',
+	'/Ĵ/' => 'J',
+	'/ĵ/' => 'j',
+	'/Θ/' => 'TH',
+	'/θ/' => 'th',
+	'/Ķ|Κ|К/' => 'K',
+	'/ķ|κ|к/' => 'k',
+	'/Ĺ|Ļ|Ľ|Ŀ|Ł|Λ|Л/' => 'L',
+	'/ĺ|ļ|ľ|ŀ|ł|λ|л/' => 'l',
+	'/М/' => 'M',
+	'/м/' => 'm',
+	'/Ñ|Ń|Ņ|Ň|Ν|Н/' => 'N',
+	'/ñ|ń|ņ|ň|ŉ|ν|н/' => 'n',
+	'/Ò|Ó|Ô|Õ|Ō|Ŏ|Ǒ|Ő|Ơ|Ø|Ǿ|Ο|Ό|Ω|Ώ|Ỏ|Ọ|Ồ|Ố|Ỗ|Ổ|Ộ|Ờ|Ớ|Ỡ|Ở|Ợ|О/' => 'O',
+	'/ò|ó|ô|õ|ō|ŏ|ǒ|ő|ơ|ø|ǿ|º|ο|ό|ω|ώ|ỏ|ọ|ồ|ố|ỗ|ổ|ộ|ờ|ớ|ỡ|ở|ợ|о/' => 'o',
+	'/П/' => 'P',
+	'/п/' => 'p',
+	'/Ŕ|Ŗ|Ř|Ρ|Р/' => 'R',
+	'/ŕ|ŗ|ř|ρ|р/' => 'r',
+	'/Ś|Ŝ|Ş|Ș|Š|Σ|С/' => 'S',
+	'/ś|ŝ|ş|ș|š|ſ|σ|ς|с/' => 's',
+	'/Ț|Ţ|Ť|Ŧ|Τ|Т/' => 'T',
+	'/ț|ţ|ť|ŧ|τ|т/' => 't',
+	'/Þ|þ/' => 'th',
+	'/Ù|Ú|Û|Ũ|Ū|Ŭ|Ů|Ű|Ų|Ư|Ǔ|Ǖ|Ǘ|Ǚ|Ǜ|Ũ|Ủ|Ụ|Ừ|Ứ|Ữ|Ử|Ự|У/' => 'U',
+	'/ù|ú|û|ũ|ū|ŭ|ů|ű|ų|ư|ǔ|ǖ|ǘ|ǚ|ǜ|υ|ύ|ϋ|ủ|ụ|ừ|ứ|ữ|ử|ự|у/' => 'u',
+	'/Ƴ|Ɏ|Ỵ|Ẏ|Ӳ|Ӯ|Ў|Ý|Ÿ|Ŷ|Υ|Ύ|Ϋ|Ỳ|Ỹ|Ỷ|Ỵ|Й/' => 'Y',
+	'/ẙ|ʏ|ƴ|ɏ|ỵ|ẏ|ӳ|ӯ|ў|ý|ÿ|ŷ|ỳ|ỹ|ỷ|ỵ|й/' => 'y',
+	'/В/' => 'V',
+	'/в/' => 'v',
+	'/Ŵ/' => 'W',
+	'/ŵ/' => 'w',
+	'/Φ/' => 'F',
+	'/φ/' => 'f',
+	'/Χ/' => 'CH',
+	'/χ/' => 'ch',
+	'/Ź|Ż|Ž|Ζ|З/' => 'Z',
+	'/ź|ż|ž|ζ|з/' => 'z',
+	'/Æ|Ǽ/' => 'AE',
+	'/ß/' => 'ss',
+	'/Ĳ/' => 'IJ',
+	'/ĳ/' => 'ij',
+	'/Œ/' => 'OE',
+	'/ƒ/' => 'f',
+	'/Ξ/' => 'KS',
+	'/ξ/' => 'ks',
+	'/Π/' => 'P',
+	'/π/' => 'p',
+	'/Β/' => 'V',
+	'/β/' => 'v',
+	'/Μ/' => 'M',
+	'/μ/' => 'm',
+	'/Ψ/' => 'PS',
+	'/ψ/' => 'ps',
+	'/Ё/' => 'Yo',
+	'/ё/' => 'yo',
+	'/Є/' => 'Ye',
+	'/є/' => 'ye',
+	'/Ї/' => 'Yi',
+	'/Ж/' => 'Zh',
+	'/ж/' => 'zh',
+	'/Х/' => 'Kh',
+	'/х/' => 'kh',
+	'/Ц/' => 'Ts',
+	'/ц/' => 'ts',
+	'/Ч/' => 'Ch',
+	'/ч/' => 'ch',
+	'/Ш/' => 'Sh',
+	'/ш/' => 'sh',
+	'/Щ/' => 'Shch',
+	'/щ/' => 'shch',
+	'/Ъ|ъ|Ь|ь/' => '',
+	'/Ю/' => 'Yu',
+	'/ю/' => 'yu',
+	'/Я/' => 'Ya',
+	'/я/' => 'ya'
+);

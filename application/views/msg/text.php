@@ -1,61 +1,137 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-HR+cPv9fCNyd+ubmJgUaN0/m4L5Q11+xtTyShuJ8J2IZbY525Cnl/LFUrOdJDvEAhLtOeJK9OxED
-om5yeE5TZJAQulFpJI8NU3xpTkOQDQwMEWWtO8P3dgI8xIstshHLVa+oOydbqVocuy1nNrpa1m51
-8zh3G+uXvPtuXX2P8jKhTkUmZzsrMfu4r1DDvc4h0Wf+Ic6My0I6hCewu37MWzMZ3Zgeo03GjG+O
-R/BAN3T0uHGEgwsNZ2qTBTrX1TyfRYihh+0veDmCc/vNr78UUolC4prA2MUHa5qP7bhsM9Gw6w2T
-8rIoR4wLGXo2quvvtaySulEcAWe1Wzac/MVZZjHYYebYzAYQ8slM4Hn9M4mH8advR4zS0wZslUqL
-NQpbdTp6++Gnjy1NRNOGXd4DNQvQ+BvqRTcogImO4ZtYweHSIwny/ivFaUa+poRAR+FwKpu4Mc+W
-vudeh07vxh/WK6z+kvWNdflZyXo++wlNBNAYerb7BfnTd3a5Vemxkr4lk7c7c9opKFxY9t9nHQoh
-RmUaR4mUxwZGlTvnbuIHmQrJdlL2d4MgZ3CxKI5CSjbkI1OOsT7x7t38hBF3IuPqmuBwf1J5YUry
-e6W+Oy+UlSZU7pNNeBE7n8daM6CLORJy9pOm3GjKGei3IdmDfUp3ZlslScgWkfn86aDmGSpS9QHJ
-pbKUE4k4uu8IMO4lYl6haVffZyF+3bXaTP7bK9w9icb0+lOGW7LqAhP8uUcHuBJ+xm90erNJavSm
-jHhTaCzAXQX0RIaXCcHu1ajhdSufFwcj9iwTxMUxdACjod6dB3XHSFMB9PcFotifVi+xk5aVWn9F
-Co2kHfpcMGE3jSc4aFwye0oJheW7RtTXr7apAuj6BVwS7h7V/agAHOPMgb+84R+JuVG8XEyJFTYX
-c9eYEPbeqE+l6SPhgMlF4VBx/9ffNETtCb2AQWmtcjrWOnLJyoQCmp6zwwlY3DzfiSoncTxlnRPD
-aEMF+fQ8jTY3iZqz5nbX/GrVTWpdvD3ioqk3wbV/1NaR6xPzeOkCKL9G6YZ6J5xN8+etnSnc8Phs
-DDWe7iZTzOS+ZZ4HwOQjn0oVH/7PXbROmTuGFeYP1wo5EKLENMUSuM/yifLguicEXyEsiZBkgSkh
-cjY2Q0a98V6XuuzhP7/ev/2TYV3n515zsMlwK0Je62Saiczu49bYSC7JWcm3HicUEAkJQii1LGbw
-DtTzMg6OC5vqEJT9VOH4+/XFrkCGm6X9LaDCfm5rxnUG/8Bga3dNgK/lsTdeShId9AwEaEnnYK2+
-pFafOh1c89RsVhDhNZd5xkm+4RS8mPTVbUiZCWqktXtUn22biEm+aEdaREDaXMvDTUKSIe/TQPxi
-A/+Fu1H2J4QKW0LlTmZdkto0wL+jd+M4e1I37LZh+yNFAyo/TdLpQ8G+Hu2Uf5T3Gxx6OLo+fC+a
-HdqTh7KDNB/bUBXNwAtCtYBjOlCPOUv87qtUog7dNdmKO2Cn0Qjkjxv687NNuTokv2P9CZQvZ4WP
-KWiSghVmUZh19r6KIdwIcvt4FdHY2SnxOWQmXdJiEoWbADdk2azjbS3aSPitaqf4bdM8IqEday2Y
-M6lsvCFcvSn56RqBSq8uq2Ue/wZeQP9XEDvuNkrczkALjUixOXInyYDczzTifxSrAfd86Z2RjIVL
-DG1cfLE51hV0h83/MsfJVcS8zmdipr8pc12eQ6HgIQ3fIItfTLMETEQHjIABcojkDCxZ+mDB4/IZ
-bAEC7A3j1YB5WQv3OyRm4VGkKy5G87RkwI6X4/hPc7KlP/IUJwmZBoP2IjSdcdUA7MYqYeQDcAFg
-D1RDJLGTqzSnnivhJW+X52TPFpwcyVh2C+k0Z8pRhETqWId90H6Lk7pmbt7hr220AMTkgLMbrj6s
-CKfz1g7589ZTimP5n+WpsNR9GC09VBO8R1q2wJy/qKTfuq+IrB1zeEC96fCUa02thHoIBhAyk8Fy
-+xD2/9LM8syt/KV4nHSgPwknEsDgVI+xrw8oReanSYxs1Epbyv5UVO/Rvvq/JwD9OEbbFgpZQi4p
-zeVJYAjV0de3do9z/Btj+FbIs3raVoVpKO6hqxSufccKka/QBnA2BxtVRuBtRw4iRZIwUvPn0SCh
-f+d9OhHLP3+eTudU/DweEbPkNhRA8mmm5QmRI2Bp5qutTHT9A5MpLMyFI4wex3+hY0EdA3A0Gxjf
-uRvJmNRW0yYVFT/DoEgScd6RdpkOkXx8bvmMSzGSJv2kRDJ6Pui9mUpvG83OQKwNitX59rWH6ATf
-/yAQqRD5hQL4Jn5cUf4ohOCYvu7UHLSYsnFprOrBTqJGlnV3BRcSw9mawweM/QUhsfIGvTnU7f/h
-JNpCvgxLlO2dhsvtBrDzK1uf1u7GvETsmVgdnRq1/7eC9zqUrWNcVocDVQ3W/6jmu5NV0vwJ5hdX
-MtC2TfkygSL16QV5HN1UKV8nvzj6O9T4HerYRz1gliddzQjsjlueC3Vu81Ar7JOJU9qErrk5kfPO
-t1e5BSFaLAkBHZ9GqREg1BK7TO2sCepJHKtbjCAnRfDaU8TD5ZqWAL4NiVSAE9692CMLweJmpajb
-u4d0DAgU26hR1ZShiVK99i3t8BhRMDdaLa4owHC87aXP0kU+E/0WesPjEUepKcEqjk1Wnf6QnHjX
-0SvfyVFPqFzEcFbbuS5HRL74Evny7ND62knWW7JAp42G4twphI8Gthg5dL4OBpawWi5Us35VK/ef
-nnII0uZkq9NksiVsCl/y5pQw4VaIZdH2TTeLe0tIaUhuPfuAA0JuErk3C3RepJ4KJmOP6kqJoYwK
-bPzr1tHE6pX4NNG/qTgsKgSASQPiSlRwSAX9+7Envt7O/qu4r6ui0sC+8YeZmQ8+tAzgi/9uyiy5
-1l0DopGNSc/W5h1ohb1v8kYGzt3l/gkhzCxAiwpEcNCZ9Eicui6V/RCgpgyamzYiZq1Y8XK2VMxk
-OO9AREQV6laBLNql7MHo5jUgDQYe84hhoEoBG2b4hrT3j0TRCqrVVuNuDs1gd3xNXdYFMSknE7Gi
-XlKw6oK8d7dKUNqp4YrmM8gtc0pLmZO7wEXTXKxCjh7yiJrLjQjptqbp/+YU48p8kqBLWgtInVwB
-BBhA6CUY4ydw5U+xUUWr40J0rb2DxUcr2Q5MKxKtZbg4X0AEAdhmeuiRSKwLfQ6AXwh9QeGwTHLz
-Pa+TP4/Bn63wsExunLcEk6RySEx99F3qCntXj8gUk6ncstInZqEz3irRHasN8JvqjqWl8z7zwQck
-VExx9S5Nf9u01VuZAwdSaM3DdC/xPsUbf14XwcZxjFXPZznW46G6rbMwh1YC7XCm9DZ0Ovsqdc9D
-1DwMeBZ9BT4tuDQekXy0Sodtf/YzT/dI7n/oJDgy76625FO+BgPfpert2HqPzzwqSU41qVon1KKW
-rHq3Wv1CNtw8HN8RAJ75BJDy/Cpo4Ti3SopzQW+ltNjqutyh3pv66yTynEYEwDfjB3VIzKgbzsk2
-+0ms4DsSqD0Wl6BTrRXcVO2PHsLB1ufpsNc5qb5kaDp2BgQWzPKDR1HK6UCwvBNNlG4zy76PEr8O
-YzG7SJvXqd5EB+cdvRwQfYECFNNwMu9UaMcn86ikIG8cotEChJkwvIiS2o8ATNteh4PkraVoQkxX
-PBpRBf5tP4n/Ko8FvL2WMsvA94XTs/R6mz6OKiXebm3Z5kjxQcLLa9+H+mWvgeWnircplROhIc71
-OtZMe4T9SiYCY4Od7fPQWAygezc3+LjMsYdadu0ZZw4vNQXgAD7MKP0RLRnI7p3xAr2aAZIilQSu
-kqdNucGXtCo+E4//YbKTgzin39nJZ31kpFGd99KSbJc7HnTC/06Vpsy1be/qRyms774D7CPJbuk4
-Gv9wSN5iOEnJcNK2zh+Tncw8bq06DHTMlvOWP1gVcAf1ugROQVIamr9cpkF7jPJM1+wvYPVt5O35
-+A8FEzR0JDuXxEFV5ZT1FiKfQkjW9aKs2WjXB2V1rRbCGGOfDKIm8tKID0nhbvC+MsVmQHhBVmrk
-KWGlUYc6FWe3ZomXNz3yeYq2zA8EEWlS6FWGI/zAdrymHUIew9pV1V48ktyoIYJ0Etpow1AOeywF
-+2M5z44VY/Wl2WoJorKHC1NxFsBYO/L+gk8WdvCNNLm2tRa8szNCJYvzQqfJMVQpw9kowv1wii+q
-cbK//29DLITkGTtvOdcFRnNPQMRkeaTkkRb6x0nylcyRHihEvDSaYX+ujx15rLI/63RFQfswul5o
-bs+VFffzxkDQQ/gstioQxX3T2DrpzGjaJNXgDbVPsxtwoYn3Vz7qdbOxKqgVuAODEsyHbD7QaHDT
-hPn+0swI29O5KSIUEGsdFNHcuk43J2Cxdeq23YZ5U8WvoDMfVJbKdmbPWWEx5G1xVm==
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-core.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-vendor.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/images/favicon.ico'?>" rel="shortcut icon" type="image/x-icon">
+	<title><?=$page?> | Apps</title>
+</head>
+<body class="theme-light preload-active aside-active aside-mobile-minimized aside-desktop-maximized" id="fullscreen">
+	<div class="preload">
+		<div class="preload-dialog">
+			<div class="spinner-border text-primary preload-spinner"></div>
+		</div>
+	</div>
+	<div class="holder">
+		<div class="aside">
+			<div class="aside-header">
+				<h3 class="aside-title"><?=APPNAME.' '.VERSION?></h3>
+				<div class="aside-addon">
+					<button class="btn btn-label-primary btn-icon btn-lg" data-toggle="aside">
+						<i class="fa fa-times aside-icon-minimize"></i>
+						<i class="fa fa-thumbtack aside-icon-maximize"></i>
+					</button>
+				</div>
+			</div>
+			<div class="aside-body" data-simplebar="data-simplebar">
+				<?php $this->load->view('tmp/menud') ?>
+			</div>
+		</div>
+		<div class="wrapper">
+			<div class="header">
+				<?php $this->load->view('tmp/header') ?>
+				<div class="header-holder header-holder-mobile">
+					<div class="header-container container-fluid">
+						<div class="header-wrap header-wrap-block justify-content-start w-100">
+							<div class="breadcrumb">
+								<a href="<?=base_url().''?>" class="breadcrumb-item">
+									<div class="breadcrumb-icon">
+										<i data-feather="home"></i>
+									</div>
+									<span class="breadcrumb-text">Users</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="content ">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-6">
+							<div class="portlet">
+								<div class="portlet-header portlet-header-bordered">
+									<h3 class="portlet-title">Send Message</h3>
+								</div>
+								<div class="portlet-body">
+									<form>
+										<div class="form-group">
+											<label>Phone Number</label>
+											<input type="text" id="phone" name="phone" class="form-control" placeholder="Phone Number">
+											<span id="status"></span>
+										</div>
+										<div class="form-group">
+											<label>Message</label>
+											<textarea class="form-control" id="msg" name="msg" rows="5" placeholder="Message"></textarea>
+										</div>
+										<div class="form-group">
+											<button id="submit" type="submit" class="btn btn-primary"><i class="fa fa-paper-plane"></i> Send</button>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="portlet">
+								<div class="portlet-header portlet-header-bordered">
+									<h3 class="portlet-title">Detail</h3>
+								</div>
+								<div class="portlet-body" id="send">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<?php $this->load->view('tmp/footer') ?>
+		</div>
+	</div>
+	<div class="scrolltop">
+		<button class="btn btn-info btn-icon btn-lg">
+			<i class="fa fa-angle-up"></i>
+		</button>
+	</div>
+	<?php $this->load->view('changelogs') ?>
+	<div class="float-btn float-btn-right">
+		<button class="btn btn-flat-primary btn-icon mb-2" id="theme-toggle" data-toggle="tooltip" data-placement="right" title="Change theme">
+			<i class="fa fa-moon"></i>
+		</button>
+	</div>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/mandatory.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/core.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/vendor.js'?>"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#phone').keyup(function() {
+				var data = $('#phone').val();
+				$.ajax({
+					type: "POST",
+					data: {"id":data},
+					url: "<?php echo base_url().'ajax/checkcontacts'?>",
+					success: function(response){
+						$("#status").html(response);
+					}
+				});
+			})
+		});
+	</script>
+	<script type="text/javascript">
+		$("#submit").click(function(e) {
+			e.preventDefault();
+			var phone = $('#phone').val();
+			var msg = $('#msg').val();
+			$.ajax({
+				type: "POST",
+				data: {"phone":phone, "msg":msg},
+				url: "<?php echo base_url().'ajax/SendText'?>",
+				success: function(response){
+					$('#send').html(response);
+				}
+			});
+		});
+	</script>
+</body>
+</html>

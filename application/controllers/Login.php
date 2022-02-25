@@ -1,61 +1,49 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
-0xDmtHFg
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+class Login extends CI_Controller
+{
+
+	function __construct()
+	{
+		parent::__construct();
+		error_reporting(0);
+	}
+	function index()
+	{
+		cek_sesi_login();
+		$data['page'] = 'Login';
+		$this->load->view('auth/login',$data);
+	}
+	function gologin()
+	{
+		$username = $this->input->post('username');
+		$password = $this->input->post('password');
+		$hash = base64_encode(md5($password));
+		$cek_login	= $this->m_account->auth($username,$hash);
+		if ($cek_login->num_rows() == 1) {
+			$row = $cek_login->row();
+			$this->session->set_userdata(array(
+				'logged'	=> 'true',
+				'userid'    => $row->id,
+				'fullname'  => $row->fullname,
+				'role'     	=> $row->role,
+				'agent'    	=> $this->agent->browser().' '.$this->agent->version()
+			));
+			$url = base_url().'home';
+			echo $this->session->set_flashdata('success','Welcome '.$row->fullname);
+			redirect($url);
+		}else{
+			$url = base_url().'login';
+			echo $this->session->set_flashdata('error','email or password invalid');
+			redirect($url);
+		}
+	}
+	function logout()
+	{
+		$this->session->unset_userdata('userid');
+		$this->session->sess_destroy();
+		$url = base_url().'login';
+		echo $this->session->set_flashdata('success','Logout Success');
+		redirect($url);
+	}
+} ?>

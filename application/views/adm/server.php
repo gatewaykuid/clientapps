@@ -1,86 +1,208 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-core.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-vendor.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/images/favicon.ico'?>" rel="shortcut icon" type="image/x-icon">
+	<title><?=$page?> | Apps</title>
+</head>
+<body class="theme-light preload-active aside-active aside-mobile-minimized aside-desktop-maximized" id="fullscreen">
+	<div class="preload">
+		<div class="preload-dialog">
+			<div class="spinner-border text-primary preload-spinner"></div>
+		</div>
+	</div>
+	<div class="holder">
+		<div class="aside">
+			<div class="aside-header">
+				<h3 class="aside-title"><?=APPNAME.' '.VERSION?></h3>
+				<div class="aside-addon">
+					<button class="btn btn-label-primary btn-icon btn-lg" data-toggle="aside">
+						<i class="fa fa-times aside-icon-minimize"></i>
+						<i class="fa fa-thumbtack aside-icon-maximize"></i>
+					</button>
+				</div>
+			</div>
+			<div class="aside-body" data-simplebar="data-simplebar">
+				<?php $this->load->view('tmp/menud') ?>
+			</div>
+		</div>
+		<div class="wrapper">
+			<div class="header">
+				<?php $this->load->view('tmp/header') ?>
+				<div class="header-holder header-holder-mobile">
+					<div class="header-container container-fluid">
+						<div class="header-wrap header-wrap-block justify-content-start w-100">
+							<div class="breadcrumb">
+								<a href="<?=base_url().''?>" class="breadcrumb-item">
+									<div class="breadcrumb-icon">
+										<i data-feather="home"></i>
+									</div>
+									<span class="breadcrumb-text">Users</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="content ">
+				<div class="container-fluid">
+					<div class="row portlet-row-fill-xl">
+						<div class="col-xl-4">
+							<div class="row portlet-row-fill-md h-100">
+								<div class="col-md-12 col-xl-12">
+									<div class="row portlet-row-fill-sm">
+										<div class="col-sm-12">
+											<div class="portlet">
+												<div class="portlet-body">
+													<div class="widget8" id="QRCODE">
+														
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-xl-4">
+							<div class="row portlet-row-fill-md h-100">
+								<div class="col-md-12 col-xl-12">
+									<div class="row portlet-row-fill-sm">
+										<div class="col-sm-12">
+											<div class="portlet">
+												<div class="portlet-body">
+													<div class="widget8">
+														<button class="btn btn-primary" data-toggle="modal" data-target="#modal3">Edit Config</button> | 
+														<a href="" class="btn btn-danger"><i class="fa fa-times"></i> Logout</a>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-xl-4">
+							<div class="row portlet-row-fill-md h-100">
+								<div class="col-md-12 col-xl-12">
+									<div class="portlet portlet-primary">
+										<div class="portlet-header">
+											<div class="portlet-icon">
+												<i class="fa fa-chalkboard"></i>
+											</div>
+											<h3 class="portlet-title">Devices Informations</h3>
+										</div>
+										<div class="portlet-body">
+											<div class="portlet mb-2">
+												<div class="portlet-body">
+													<div class="widget5">
+														<h4 class="widget5-title"><?=$wa_name?></h4>
+														<div class="widget5-group">
+															<div class="widget5-item">
+																<span class="widget5-info">Phone</span>
+																<span class="widget5-value"><?=$phone?></span>
+															</div>
+															<div class="widget5-item">
+																<span class="widget5-info">Manufacture</span>
+																<span class="widget5-value text-success"><?=$manufacture?></span>
+															</div>
+															<div class="widget5-item">
+																<span class="widget5-info">Battery</span>
+																<span class="widget5-value"><?=$battery?></span>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<?php $this->load->view('tmp/footer') ?>
+		</div>
+	</div>
+	<div class="scrolltop">
+		<button class="btn btn-info btn-icon btn-lg">
+			<i class="fa fa-angle-up"></i>
+		</button>
+	</div>
+	<?php $this->load->view('changelogs') ?>
+	<div class="modal fade" id="modal3">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header modal-header-bordered">
+					<h5 class="modal-title">Config</h5>
+					<button type="button" class="btn btn-label-danger btn-icon" data-dismiss="modal">
+						<i class="fa fa-times"></i>
+					</button>
+				</div>
+				<form action="<?=base_url().'adm/saveserver'?>" method="POST" autocomplete="off">
+					<div class="modal-body">
+						<div class="form-group">
+							<label>Prefix</label>
+							<input type="text" class="form-control" value="<?=$prefix?>" name="prefix" placeholder="Prefix">
+						</div>
+						<div class="form-group">
+							<label>Usertoken</label>
+							<input type="text" class="form-control" value="<?=$usertoken?>" name="usertoken" placeholder="Usertoken">
+						</div>
+						<div class="form-group">
+							<label>Device-Key</label>
+							<input type="text" class="form-control" value="<?=$devicekey?>" name="devicekey" placeholder="Usertoken">
+						</div>
+						<div class="form-group">
+							<label>Device-ID</label>
+							<input type="text" class="form-control" value="<?=$deviceid?>" name="deviceid" placeholder="Usertoken">
+						</div>
+					</div>
+					<div class="modal-footer modal-footer-bordered">
+						<button class="btn btn-primary" type="submit">Submit</button>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	<div class="float-btn float-btn-right">
+		<button class="btn btn-flat-primary btn-icon mb-2" id="theme-toggle" data-toggle="tooltip" data-placement="right" title="Change theme">
+			<i class="fa fa-moon"></i>
+		</button>
+	</div>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/mandatory.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/core.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/vendor.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/app/datatable/basic/base.js'?>"></script>
+	<script type="text/javascript">
+		<?php 
+		if ($this->session->flashdata('success')) { ?>
+			toastr.success("<?php echo $this->session->flashdata('success'); ?>");
+		<?php }elseif ($this->session->flashdata('info')) { ?>
+			toastr.info("<?php echo $this->session->flashdata('info'); ?>");
+		<?php }elseif ($this->session->flashdata('warning')) { ?>
+			toastr.warning("<?php echo $this->session->flashdata('warning'); ?>");
+		<?php }elseif ($this->session->flashdata('error')) { ?>
+			toastr.error("<?php echo $this->session->flashdata('error'); ?>");
+		<?php } ?>
+	</script>
+	<script type="text/javascript">
+		setInterval(function(){
+			$(document).ready(function() {
+				$.ajax({
+					type: "GET",
+					url: "<?php echo base_url().'ajax/ScanQR'?>",
+					success: function(response){
+						$("#QRCODE").html(response);
+					}
+				});
+			});
+		}, 1000);
+	</script>
+</body>
+</html>
