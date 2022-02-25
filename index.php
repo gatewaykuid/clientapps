@@ -1,99 +1,315 @@
-<?php //004fb
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+<?php
+/**
+ * CodeIgniter
+ *
+ * An open source application development framework for PHP
+ *
+ * This content is released under the MIT License (MIT)
+ *
+ * Copyright (c) 2014 - 2019, British Columbia Institute of Technology
+ *
+ * Permission is hereby granted, free of charge, to any person obtaining a copy
+ * of this software and associated documentation files (the "Software"), to deal
+ * in the Software without restriction, including without limitation the rights
+ * to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ * copies of the Software, and to permit persons to whom the Software is
+ * furnished to do so, subject to the following conditions:
+ *
+ * The above copyright notice and this permission notice shall be included in
+ * all copies or substantial portions of the Software.
+ *
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ * IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ * FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ * AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ * LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ * THE SOFTWARE.
+ *
+ * @package	CodeIgniter
+ * @author	EllisLab Dev Team
+ * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
+ * @copyright	Copyright (c) 2014 - 2019, British Columbia Institute of Technology (https://bcit.ca/)
+ * @license	https://opensource.org/licenses/MIT	MIT License
+ * @link	https://codeigniter.com
+ * @since	Version 1.0.0
+ * @filesource
+ */
+
+/*
+ *---------------------------------------------------------------
+ * APPLICATION ENVIRONMENT
+ *---------------------------------------------------------------
+ *
+ * You can load different configurations depending on your
+ * current environment. Setting the environment also influences
+ * things like logging and error reporting.
+ *
+ * This can be set to anything, but default usage is:
+ *
+ *     development
+ *     testing
+ *     production
+ *
+ * NOTE: If you change these, also change the error_reporting() code below
+ */
+	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
+
+/*
+ *---------------------------------------------------------------
+ * ERROR REPORTING
+ *---------------------------------------------------------------
+ *
+ * Different environments will require different levels of error reporting.
+ * By default development will show errors but testing and live will hide them.
+ */
+switch (ENVIRONMENT)
+{
+	case 'development':
+		error_reporting(-1);
+		ini_set('display_errors', 1);
+	break;
+
+	case 'testing':
+	case 'production':
+		ini_set('display_errors', 0);
+		if (version_compare(PHP_VERSION, '5.3', '>='))
+		{
+			error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED & ~E_STRICT & ~E_USER_NOTICE & ~E_USER_DEPRECATED);
+		}
+		else
+		{
+			error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_USER_NOTICE);
+		}
+	break;
+
+	default:
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'The application environment is not set correctly.';
+		exit(1); // EXIT_ERROR
+}
+
+/*
+ *---------------------------------------------------------------
+ * SYSTEM DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * This variable must contain the name of your "system" directory.
+ * Set the path if it is not in the same directory as this file.
+ */
+	$system_path = 'system';
+
+/*
+ *---------------------------------------------------------------
+ * APPLICATION DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * If you want this front controller to use a different "application"
+ * directory than the default one you can set its name here. The directory
+ * can also be renamed or relocated anywhere on your server. If you do,
+ * use an absolute (full) server path.
+ * For more info please see the user guide:
+ *
+ * https://codeigniter.com/user_guide/general/managing_apps.html
+ *
+ * NO TRAILING SLASH!
+ */
+	$application_folder = 'application';
+
+/*
+ *---------------------------------------------------------------
+ * VIEW DIRECTORY NAME
+ *---------------------------------------------------------------
+ *
+ * If you want to move the view directory out of the application
+ * directory, set the path to it here. The directory can be renamed
+ * and relocated anywhere on your server. If blank, it will default
+ * to the standard location inside your application directory.
+ * If you do move this, use an absolute (full) server path.
+ *
+ * NO TRAILING SLASH!
+ */
+	$view_folder = '';
+
+
+/*
+ * --------------------------------------------------------------------
+ * DEFAULT CONTROLLER
+ * --------------------------------------------------------------------
+ *
+ * Normally you will set your default controller in the routes.php file.
+ * You can, however, force a custom routing by hard-coding a
+ * specific controller class/function here. For most applications, you
+ * WILL NOT set your routing here, but it's an option for those
+ * special instances where you might want to override the standard
+ * routing in a specific front controller that shares a common CI installation.
+ *
+ * IMPORTANT: If you set the routing here, NO OTHER controller will be
+ * callable. In essence, this preference limits your application to ONE
+ * specific controller. Leave the function name blank if you need
+ * to call functions dynamically via the URI.
+ *
+ * Un-comment the $routing array below to use this feature
+ */
+	// The directory name, relative to the "controllers" directory.  Leave blank
+	// if your controller is not in a sub-directory within the "controllers" one
+	// $routing['directory'] = '';
+
+	// The controller class file name.  Example:  mycontroller
+	// $routing['controller'] = '';
+
+	// The controller function you wish to be called.
+	// $routing['function']	= '';
+
+
+/*
+ * -------------------------------------------------------------------
+ *  CUSTOM CONFIG VALUES
+ * -------------------------------------------------------------------
+ *
+ * The $assign_to_config array below will be passed dynamically to the
+ * config class when initialized. This allows you to set custom config
+ * items or override any default config values found in the config.php file.
+ * This can be handy as it permits you to share one application between
+ * multiple front controller files, with each file containing different
+ * config values.
+ *
+ * Un-comment the $assign_to_config array below to use this feature
+ */
+	// $assign_to_config['name_of_config_item'] = 'value of config item';
+
+
+
+// --------------------------------------------------------------------
+// END OF USER CONFIGURABLE SETTINGS.  DO NOT EDIT BELOW THIS LINE
+// --------------------------------------------------------------------
+
+/*
+ * ---------------------------------------------------------------
+ *  Resolve the system path for increased reliability
+ * ---------------------------------------------------------------
+ */
+
+	// Set the current directory correctly for CLI requests
+	if (defined('STDIN'))
+	{
+		chdir(dirname(__FILE__));
+	}
+
+	if (($_temp = realpath($system_path)) !== FALSE)
+	{
+		$system_path = $_temp.DIRECTORY_SEPARATOR;
+	}
+	else
+	{
+		// Ensure there's a trailing slash
+		$system_path = strtr(
+			rtrim($system_path, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		).DIRECTORY_SEPARATOR;
+	}
+
+	// Is the system path correct?
+	if ( ! is_dir($system_path))
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your system folder path does not appear to be set correctly. Please open the following file and correct this: '.pathinfo(__FILE__, PATHINFO_BASENAME);
+		exit(3); // EXIT_CONFIG
+	}
+
+/*
+ * -------------------------------------------------------------------
+ *  Now that we know the path, set the main path constants
+ * -------------------------------------------------------------------
+ */
+	// The name of THIS file
+	define('SELF', pathinfo(__FILE__, PATHINFO_BASENAME));
+
+	// Path to the system directory
+	define('BASEPATH', $system_path);
+
+	// Path to the front controller (this file) directory
+	define('FCPATH', dirname(__FILE__).DIRECTORY_SEPARATOR);
+
+	// Name of the "system" directory
+	define('SYSDIR', basename(BASEPATH));
+
+	// The path to the "application" directory
+	if (is_dir($application_folder))
+	{
+		if (($_temp = realpath($application_folder)) !== FALSE)
+		{
+			$application_folder = $_temp;
+		}
+		else
+		{
+			$application_folder = strtr(
+				rtrim($application_folder, '/\\'),
+				'/\\',
+				DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+			);
+		}
+	}
+	elseif (is_dir(BASEPATH.$application_folder.DIRECTORY_SEPARATOR))
+	{
+		$application_folder = BASEPATH.strtr(
+			trim($application_folder, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		);
+	}
+	else
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your application folder path does not appear to be set correctly. Please open the following file and correct this: '.SELF;
+		exit(3); // EXIT_CONFIG
+	}
+
+	define('APPPATH', $application_folder.DIRECTORY_SEPARATOR);
+
+	// The path to the "views" directory
+	if ( ! isset($view_folder[0]) && is_dir(APPPATH.'views'.DIRECTORY_SEPARATOR))
+	{
+		$view_folder = APPPATH.'views';
+	}
+	elseif (is_dir($view_folder))
+	{
+		if (($_temp = realpath($view_folder)) !== FALSE)
+		{
+			$view_folder = $_temp;
+		}
+		else
+		{
+			$view_folder = strtr(
+				rtrim($view_folder, '/\\'),
+				'/\\',
+				DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+			);
+		}
+	}
+	elseif (is_dir(APPPATH.$view_folder.DIRECTORY_SEPARATOR))
+	{
+		$view_folder = APPPATH.strtr(
+			trim($view_folder, '/\\'),
+			'/\\',
+			DIRECTORY_SEPARATOR.DIRECTORY_SEPARATOR
+		);
+	}
+	else
+	{
+		header('HTTP/1.1 503 Service Unavailable.', TRUE, 503);
+		echo 'Your view folder path does not appear to be set correctly. Please open the following file and correct this: '.SELF;
+		exit(3); // EXIT_CONFIG
+	}
+
+	define('VIEWPATH', $view_folder.DIRECTORY_SEPARATOR);
+
+/*
+ * --------------------------------------------------------------------
+ * LOAD THE BOOTSTRAP FILE
+ * --------------------------------------------------------------------
+ *
+ * And away we go...
+ */
+require_once BASEPATH.'core/CodeIgniter.php';
