@@ -16,7 +16,7 @@ V2.0 Beta
  - Multi Users On 1 Devices
 
 V2.1
- - Add API Get Method
+ - Add API Get Method ( Send Message, Group View)
 
 *******************
 Server Requirements
