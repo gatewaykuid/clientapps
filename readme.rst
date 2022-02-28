@@ -15,6 +15,9 @@ V2.0 Beta
  - FileType Management
  - Multi Users On 1 Devices
 
+V2.1
+ - Add API Get Method
+
 *******************
 Server Requirements
 *******************
