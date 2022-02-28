@@ -138,4 +138,18 @@
 			<span class="menu-item-text">Local Data</span>
 		</a>
 	</div>
+	<div class="menu-section">
+		<div class="menu-section-icon">
+			<i class="fa fa-code"></i>
+		</div>
+		<h2 class="menu-section-text">Method</h2>
+	</div>
+	<div class="menu-item">
+		<a href="<?=base_url().'method/list'?>" class="menu-item-link">
+			<div class="menu-item-icon">
+				<i class="fa fa-code"></i>
+			</div>
+			<span class="menu-item-text">Method Get</span>
+		</a>
+	</div>
 </div>
