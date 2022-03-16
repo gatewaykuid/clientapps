@@ -1,0 +1,57 @@
+/* =================================== */
+/*  Basic Style 
+/* =================================== */
+
+body {
+  background: $body-bg;
+  color: $text-color;
+  font-family: $body-font;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+form {
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+
+img {
+  vertical-align: inherit;
+}
+a, a:focus {
+  color: $primary-color;
+  text-decoration:none;
+  @include transition(all .2s ease);
+}
+a:hover, a:active {
+    color: $primary-color-hover;
+    @include transition(all .2s ease);
+}
+
+a:focus, a:active,
+.btn.active.focus,
+.btn.active:focus,
+.btn.focus,
+.btn:active.focus,
+.btn:active:focus,
+.btn:focus,
+button:focus,
+button:active{
+	outline: none;
+}
+
+p {
+  line-height: 1.9;
+}
+
+iframe {
+  border: 0 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: $title-color;
+}
+
+.table{color: $text-color;}
+.table-hover tbody tr:hover{background-color:#f6f7f8;}

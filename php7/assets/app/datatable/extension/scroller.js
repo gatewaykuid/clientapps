@@ -1,0 +1,1 @@
+"use strict";$(function(){$("#datatable-1").DataTable({ajax:"https://blueupcode.com/assets/datatables/api.json",deferRender:true,scrollCollapse:true,scrollY:300,scroller:true})});

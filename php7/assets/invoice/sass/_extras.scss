@@ -1,0 +1,90 @@
+/* =================================== */
+/*  Extras
+/* =================================== */
+
+.bg-primary, .badge-primary {
+	background-color: $primary-color !important;
+}
+.bg-secondary {
+	background-color: $secondary-color !important;
+}
+.text-secondary{
+	color: $secondary-color !important;
+}
+.text-primary{
+	color: $primary-color !important;
+}
+.btn-link {
+	color: $primary-color;
+}
+.btn-link:hover {
+	color: $primary-color-hover !important;
+}
+
+.border-primary {
+	border-color: $primary-color !important;
+}
+.border-secondary {
+	border-color: $secondary-color !important;
+}
+
+.btn-primary {
+  background-color: $primary-color;
+  border-color: $primary-color;
+  &:hover {
+    background-color: $primary-color-hover;
+    border-color: $primary-color-hover;
+  }
+}
+.btn-secondary {
+  background-color: $secondary-color;
+  border-color: $secondary-color;
+}
+.btn-outline-primary{
+  color: $primary-color;
+  border-color: $primary-color;
+  &:hover {
+    background-color: $primary-color;
+    border-color: $primary-color;
+	color: #fff;
+  }
+}
+.btn-outline-secondary{
+  color: $secondary-color;
+  border-color: $secondary-color;
+  &:hover {
+    background-color: $secondary-color;
+    border-color: $secondary-color;
+	color: #fff;
+  }
+}
+.progress-bar,
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link{
+	background-color: $primary-color;
+}
+.page-item.active .page-link,
+.custom-radio .custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:checked ~ .custom-control-label::before,
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:checked ~ .custom-control-label:before{
+	background-color: $primary-color;
+	border-color: $primary-color;
+}
+.list-group-item.active{background-color: $primary-color; border-color: $primary-color;}
+.page-link {
+  color: $primary-color;
+  &:hover {
+    color: $primary-color-hover;
+  }
+}
+
+/* Pagination */
+
+.page-link {
+  border-color: #f4f4f4;
+  border-radius: 0.25rem;
+  margin: 0 0.3rem;
+}
+.page-item.disabled .page-link{
+	border-color: #f4f4f4;
+}

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&amp;family=Roboto+Mono&amp;display=swap" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-core.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/build/styles/ltr-vendor.css'?>" rel="stylesheet">
+	<link href="<?=base_url().'assets/images/favicon.ico'?>" rel="shortcut icon" type="image/x-icon">
+	<title><?=$page?> | Apps</title>
+</head>
+<body class="theme-light preload-active aside-active aside-mobile-minimized aside-desktop-maximized" id="fullscreen">
+	<div class="preload">
+		<div class="preload-dialog">
+			<div class="spinner-border text-primary preload-spinner"></div>
+		</div>
+	</div>
+	<div class="holder">
+		<div class="aside">
+			<div class="aside-header">
+				<h3 class="aside-title"><?=APPNAME.' '.VERSION?></h3>
+				<div class="aside-addon">
+					<button class="btn btn-label-primary btn-icon btn-lg" data-toggle="aside">
+						<i class="fa fa-times aside-icon-minimize"></i>
+						<i class="fa fa-thumbtack aside-icon-maximize"></i>
+					</button>
+				</div>
+			</div>
+			<div class="aside-body" data-simplebar="data-simplebar">
+				<?php $this->load->view('tmp/menud') ?>
+			</div>
+		</div>
+		<div class="wrapper">
+			<div class="header">
+				<?php $this->load->view('tmp/header') ?>
+				<div class="header-holder header-holder-mobile">
+					<div class="header-container container-fluid">
+						<div class="header-wrap header-wrap-block justify-content-start w-100">
+							<div class="breadcrumb">
+								<a href="<?=base_url().''?>" class="breadcrumb-item">
+									<div class="breadcrumb-icon">
+										<i data-feather="home"></i>
+									</div>
+									<span class="breadcrumb-text">Users</span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="content ">
+				<div class="container-fluid">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="portlet">
+								<div class="portlet-header portlet-header-bordered">
+									<h3 class="portlet-title">Send Message</h3>
+								</div>
+								<div class="portlet-body">
+									<form action="<?=base_url().'msg/SendButton'?>" method="POST">
+										<div class="form-group">
+											<label>Phone Number</label>
+											<input type="text" id="phone" name="phone" class="form-control" placeholder="Phone Number">
+											<span id="status"></span>
+										</div>
+										<div class="form-group">
+											<label>Message</label>
+											<textarea class="form-control" id="msg" name="msg" rows="5" placeholder="Message"></textarea>
+										</div>
+										<label>Buttons</label>
+										<div class="row">
+											<div class="form-group col-3">
+												<input type="text" class="form-control" required name="button1" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" required name="respons1" placeholder="Respons" name="">
+											</div>
+											<div class="form-group col-3">
+												<input type="text" class="form-control" name="button2" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" name="respons2" placeholder="Respons" name="">
+											</div>
+											<div class="form-group col-3">
+												<input type="text" class="form-control" name="button3" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" name="respons3" placeholder="Respons" name="">
+											</div>
+											<div class="form-group col-3">
+												<input type="text" class="form-control" name="button4" placeholder="Button Name" name=""><hr>
+												<input type="text" class="form-control" name="respons4" placeholder="Respons" name="">
+											</div>
+										</div>
+										<div class="form-group">
+											<label>Footer</label>
+											<input type="text" name="footer" value="Powered By wa-server.com" class="form-control" placeholder="Footer">
+										</div>
+										<div class="form-group">
+											<button id="submit" type="submit" class="btn btn-primary"><i class="fa fa-paper-plane"></i> Send</button>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<?php $this->load->view('tmp/footer') ?>
+		</div>
+	</div>
+	<div class="scrolltop">
+		<button class="btn btn-info btn-icon btn-lg">
+			<i class="fa fa-angle-up"></i>
+		</button>
+	</div>
+	<?php $this->load->view('changelogs') ?>
+	<div class="float-btn float-btn-right">
+		<button class="btn btn-flat-primary btn-icon mb-2" id="theme-toggle" data-toggle="tooltip" data-placement="right" title="Change theme">
+			<i class="fa fa-moon"></i>
+		</button>
+	</div>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/mandatory.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/core.js'?>"></script>
+	<script type="text/javascript" src="<?=base_url().'assets/build/scripts/vendor.js'?>"></script>
+	<script type="text/javascript">
+		<?php 
+		if ($this->session->flashdata('success')) { ?>
+			toastr.success("<?php echo $this->session->flashdata('success'); ?>");
+		<?php }elseif ($this->session->flashdata('info')) { ?>
+			toastr.info("<?php echo $this->session->flashdata('info'); ?>");
+		<?php }elseif ($this->session->flashdata('warning')) { ?>
+			toastr.warning("<?php echo $this->session->flashdata('warning'); ?>");
+		<?php }elseif ($this->session->flashdata('error')) { ?>
+			toastr.error("<?php echo $this->session->flashdata('error'); ?>");
+		<?php } ?>
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#phone').keyup(function() {
+				var data = $('#phone').val();
+				$.ajax({
+					type: "POST",
+					data: {"id":data},
+					url: "<?php echo base_url().'ajax/checkcontacts'?>",
+					success: function(response){
+						$("#status").html(response);
+					}
+				});
+			})
+		});
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$('#jumlah').keyup(function() {
+				var jumlah = $('#jumlah').val();
+				$.ajax({
+					type: "POST",
+					data: {"id":jumlah},
+					url: "<?php echo base_url().'ajax/numberbutn'?>",
+					success: function(response) {
+						$("#mybutton").html(response);
+					}
+				})
+			})
+		});
+	</script>
+</body>
+</html>
