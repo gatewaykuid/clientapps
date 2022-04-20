@@ -18,6 +18,9 @@ V2.0 Beta
 V2.1
  - Add API Get Method ( Send Message, Group View)
 
+V2.2
+ - Sync New Core to New Endpoint
+
 *******************
 Server Requirements
 *******************
